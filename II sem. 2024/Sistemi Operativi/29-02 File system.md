@@ -1,0 +1,48 @@
+Il file system è quella parte di S.O. si occupa della gestione dei file, dando significato alle informazioni memorizzate sottoforma appunto di file nella memoria secondaria (inteso come supporto di memorizzazione fisico). Questo tipo di memoria ha una caratteristica molto importante, ossia quella di permanenza dei dati.
+
+>    *Concetto di file: Insieme di informazioni o di dati correlati sotto un punto di vista logico*
+
+***Funzioni del file system***
+- Identificare in modo univoco i contenitori di informazioni (*regola di naming*)
+- lavorare in maniera astratta 
+- fornire dei metodi di accesso per poi poter agire sui file (*scrittura, lettura*)
+- realizzare una politica di controllo per l'accesso alle informazioni (importante per quanto riguarda i S.O. multiutente)
+- garantire la permanenza delle informazioni (non dipende solo dai dispositivi di memorizzazione)
+Un file deve quindi avere **almeno** un nome che lo identifica. Inoltre possono avere altri metadati, come il tipo, il suo creatore, la lunghezza, il tempo di creazione ecc.
+A proposito del tipo, in base al S.O. potrebbe variare il *typing* dei file.
+Definire un typing ha come:
+- vantaggi: poter fare dei controlli sui file di un determinato tipo
+- svantaggi: il trasporto da un S.O. ad un altro con un typing diverso richiede di avere un software di conversione
+UNIX non riconosce un typing, per cui ogni file è semplicemente una stream di byte.
+
+***Punto di vista dell'utente***
+Il file system è la parte più visibile di un S.O., in quanto la maggior parte dei comandi di quest'ultimo riguarda i file.
+
+>*Elenco dei file in una directory: ls
+>Copia: cp
+>Cancellazione: rm
+>Visualizzazione: cat 
+
+E' possibile utilizzare abbreviazioni dei nomi dei file, metacaratteri detti *wildcards*
+
+***Directory***
+Ogni volta che viene creato un oggetto a lungo tempo di vita bisogna preservare il collegamento tra nome e informazioni del file. Ciò avviene tramite una struttura chiamata *descrittore di file*.
+Qualunque sia il S.O., esistono due informazioni minime che esistono sempre: locazione e nome del file. Il descrittore vengono mantenuti in strutture dati dette *directory*
+
+> *N.B. Da un punto di vista strettamente formale, dovremmo dire sempre che all'interno di una directory ritroviamo diversi descrittori. Tuttavia nel parlare comune diremo volgarmente che una directory contiene dei file* 
+
+Le directory sono al tempo stesso memorizzate in un altro file, utilizzato come concetto unificante. Quindi anche questi dovranno avere dei descrittori, e anche questi sono contenuti in una directory. Questo processo continua fino alla radice del file system, detto *root*, il quale ha un indirizzo fisico fisso all'interno del disco.
+*Operazioni su una directory*
+- Ricerche dei file
+- Elenco totale o parziale sui descrittori
+- Creazione dei file (in quanto come effetto collaterale bisogna creare anche un descrittore di quest'ultimo)
+- Cancellazione di un file (cancellando anche il descrittore)
+- Creazione e cancellazione di una directory
+*Organizzazione delle directory*
+- **Directory ad albero**, struttura gerarchica. L'albero ha un'unica radice. Per raggiungere un elemento dell'albero, qualunque elemento sia, avrà un unico *pathname*, ossia un unico percorso percorribile, ed ogni directory può contenere sia file (foglie) che directory (nodi). Vale a dire che ogni utente può creare delle sottodirectory. In generale, in un S.O. che utilizza questo tipo di organizzazione, l'utente ha bisogno di focalizzarsi su specifiche directory. In un certo istante, quindi, l'utente ha una *directory corrente*
+	- ***Naming dei file***
+	Il nome che determina in modo unico e infallibile un file è detto *nome/pathname completo/assoluto*, un insieme dei nomi che rappresenta il percorso a partire dalla radice fino al file rappresentato che il file system deve seguire.
+	Nel caso in cui venga definita una directory corrente, allora possiamo essere facilitati utilizzando un cammino relativo, ridotto a partire dalla directory corrente (*pathname relativo*).
+	All'interno dei descrittori dei file, inoltre, esiste un altro tipo di naming: *nomi relativi semplici* 
+- **Directory a grafo aciclico:** uno stesso file può avere diversi path. In questo caso quindi, i file hanno più nomi che li identificano.
+
