@@ -21,7 +21,7 @@ Il file system è la parte più visibile di un S.O., in quanto la maggior parte 
 >*Elenco dei file in una directory: ls
 >Copia: cp
 >Cancellazione: rm
->Visualizzazione: cat 
+>Visualizzazione: cat*
 
 E' possibile utilizzare abbreviazioni dei nomi dei file, metacaratteri detti *wildcards*
 
