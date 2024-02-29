@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/29-02 Unix.md",
+                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi Operativi/29-02 Unix.md",
+                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi Operativi/29-02 Unix.md",
+                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi Operativi/29-02 Unix.md"
+                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md"
               }
             }
           }
@@ -143,14 +143,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "cmdr:Git: Create backup and close": false,
+      "cmdr:Git: Stage current file": false,
+      "cmdr:Git: Commit all changes with specific message": false,
+      "cmdr:Git: Push": false,
+      "cmdr:Git: Pull": false
     }
   },
-  "active": "04e73ea2c4df56e9",
+  "active": "61c65443a754cfda",
   "lastOpenFiles": [
+    "Sistemi Operativi/29-02 File system.md",
+    "Sistemi Operativi/29-02 Unix.md",
     "UniNotes/LICENSE",
     "UniNotes",
-    "Sistemi Operativi/29-02 File system.md",
     "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
     "Programmazione a oggetti",
     "Welcome.md"

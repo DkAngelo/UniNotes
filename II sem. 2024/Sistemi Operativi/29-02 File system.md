@@ -38,11 +38,13 @@ Le directory sono al tempo stesso memorizzate in un altro file, utilizzato come 
 - Creazione dei file (in quanto come effetto collaterale bisogna creare anche un descrittore di quest'ultimo)
 - Cancellazione di un file (cancellando anche il descrittore)
 - Creazione e cancellazione di una directory
-*Organizzazione delle directory*
+
+***Organizzazione delle directory***
 - **Directory ad albero**, struttura gerarchica. L'albero ha un'unica radice. Per raggiungere un elemento dell'albero, qualunque elemento sia, avrà un unico *pathname*, ossia un unico percorso percorribile, ed ogni directory può contenere sia file (foglie) che directory (nodi). Vale a dire che ogni utente può creare delle sottodirectory. In generale, in un S.O. che utilizza questo tipo di organizzazione, l'utente ha bisogno di focalizzarsi su specifiche directory. In un certo istante, quindi, l'utente ha una *directory corrente*
 	- ***Naming dei file***
 	Il nome che determina in modo unico e infallibile un file è detto *nome/pathname completo/assoluto*, un insieme dei nomi che rappresenta il percorso a partire dalla radice fino al file rappresentato che il file system deve seguire.
 	Nel caso in cui venga definita una directory corrente, allora possiamo essere facilitati utilizzando un cammino relativo, ridotto a partire dalla directory corrente (*pathname relativo*).
 	All'interno dei descrittori dei file, inoltre, esiste un altro tipo di naming: *nomi relativi semplici* 
+
 - **Directory a grafo aciclico:** uno stesso file può avere diversi path. In questo caso quindi, i file hanno più nomi che li identificano.
 
