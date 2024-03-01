@@ -16,28 +16,24 @@ Il codice può inoltre essere organizzato in package. Per definizione queste son
 
 ***Tipi primitivi***
 
-| ``Tipo``  | bytes |
-| --------- | ----- |
-|           |       |
-| ``short`` |       |
-| ``short`` |       |
-| ``short`` |       |
-| ``short`` |       |
-|           |       |
+| ``Tipo``   | bytes |
+| ---------- | ----- |
+| ``byte``   | 1     |
+| ``short``  | 2     |
+| ``int``    | 4     |
+| ``long``   | 8     |
+| ``float``  | 32    |
+| ``double`` | 64    |
+| ``char``   | 2     |
+**N.B.** l'assegnazione di un float richiede una F dopo aver scritto il numero es.``float a = 1.2F``
+	 la dimensione dei ``char`` è di 2 byte in quanto Java non è collegato ad ASCII ma ad UNIcode, quindi ha bisogno di più spazio
 
-| ``byte`` | 1 | 
-| ``short`` | 2 |
-| ``int`` | 4 |
-| ``long`` | 8 |
-| ``float`` | 32 | (richiede una f alla fine)
-| ``double`` | 64 |
-
+*Altri primitivi*
 ``boolean`` (true/false)
-``char`` 2byte , in quanto Java non è collegato ad Ascii ma ad UNICode
 ``string``
 
-*Casting implicito*: assegno ad una variabile più capiente una variabile più piccola
-Es. 
+> *Casting implicito*: assegno ad una variabile più capiente una variabile più piccola
+    Es. 
 ```
 int a = 45;
 long b = a;
@@ -53,7 +49,7 @@ long b = a;
 ***Altri tipi***
 ``Point``
 ``var``: il tipo della variabile dipenderà da cosa scriveremo dopo la variabile
-es. 
+Es. 
 ```
 var p = new Point()
 ```
@@ -62,7 +58,7 @@ var p = new Point()
 ***Alcune funzioni base***
 ``s.startsWith(<stringa>)`` ci dice se la stringa s inizia con la stringa descritta
 
-Randomizer: 
+*Randomizer:* 
 ```
 import java.util.Random;  
 import java.util.random.RandomGenerator;
