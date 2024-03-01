@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
+                "file": "Programmazione a oggetti/01-03 Introduzione a Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f41ec55b4b706425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmazione a oggetti/01-03 Introduzione a Java.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3a9828608605a727",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
+                "file": "Programmazione a oggetti/01-03 Introduzione a Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
+                "file": "Programmazione a oggetti/01-03 Introduzione a Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md"
+                "file": "Programmazione a oggetti/01-03 Introduzione a Java.md"
               }
             }
           }
@@ -148,16 +161,25 @@
       "cmdr:Git: Stage current file": false,
       "cmdr:Git: Commit all changes with specific message": false,
       "cmdr:Git: Push": false,
-      "cmdr:Git: Pull": false
+      "cmdr:Git: Pull": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "61c65443a754cfda",
+  "active": "f41ec55b4b706425",
   "lastOpenFiles": [
-    "Sistemi Operativi/29-02 File system.md",
+    "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md",
+    "Programmazione a oggetti/01-03 Introduzione a Java.md",
     "Sistemi Operativi/29-02 Unix.md",
+    "Sistemi Operativi/29-02 File system.md",
+    "Untitled.md",
+    "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2024-03-01 14.54.42.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-03-01 14.53.48.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-01 14.53.27.excalidraw.md",
     "UniNotes/LICENSE",
     "UniNotes",
-    "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
     "Programmazione a oggetti",
     "Welcome.md"
   ]

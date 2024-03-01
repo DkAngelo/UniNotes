@@ -1,0 +1,96 @@
+Java produce codice per una Java virtual machine, file .class che ci permettono di eseguire i nostri progetti in qualsiasi S.O.
+La traduzione è diventata molto ottimale, che rende Java molto vicino alle prestazioni su codice nativo
+E' un linguaggio staticamente tipizzato, in quanto molto rigido per l'assegnazione dei tipi
+Java dealloca la memoria in automatico grazie ad un cosiddetto *garbage collector*
+
+***Organizzazione di un progetto Java***
+Nel main:
+Due cartelle:
+- com
+	- stringa che rappresenta sé stessi
+		- sottocartelle con il codice
+
+Il codice può inoltre essere organizzato in package. Per definizione queste sono cartelle con file interni, e al loro interno vi sono delle cosiddette classi
+- ``System`` rappresenta per l'appunto il sistema. Usato in combinazione con out (``System.out``) rappresenta lo standard output
+- ``Static`` permette di programmare in linguaggio procedurale, il chè significa che funzioni con static si chiamano le une con le altre
+
+***Tipi primitivi***
+
+| ``Tipo``  | bytes |
+| --------- | ----- |
+|           |       |
+| ``short`` |       |
+| ``short`` |       |
+| ``short`` |       |
+| ``short`` |       |
+|           |       |
+
+| ``byte`` | 1 | 
+| ``short`` | 2 |
+| ``int`` | 4 |
+| ``long`` | 8 |
+| ``float`` | 32 | (richiede una f alla fine)
+| ``double`` | 64 |
+
+``boolean`` (true/false)
+``char`` 2byte , in quanto Java non è collegato ad Ascii ma ad UNICode
+``string``
+
+*Casting implicito*: assegno ad una variabile più capiente una variabile più piccola
+Es. 
+```
+int a = 45;
+long b = a;
+````
+
+> ``String s = new String(original: "nicola")``
+	Le variabili vengono chiamate varabili riferite, in quanto la parte a destra dell'uguale sono l'oggetto puntato dalla parte a sinistra
+
+> Se inserisco ``public static`` prima di uno dei tipi primitivi, rendo quella variabile disponibile a tutti le altre funzioni. Inserendo ``public static final``, lo rendo costante
+
+***Operatori***: Uguali a quelli del C
+
+***Altri tipi***
+``Point``
+``var``: il tipo della variabile dipenderà da cosa scriveremo dopo la variabile
+es. 
+```
+var p = new Point()
+```
+> Dopo tale assegnazione, p non può diventare un altro tipo di variabile (es. non posso assegnargli un int)
+
+***Alcune funzioni base***
+``s.startsWith(<stringa>)`` ci dice se la stringa s inizia con la stringa descritta
+
+Randomizer: 
+```
+import java.util.Random;  
+import java.util.random.RandomGenerator;
+randomgenerator rnd = randomgenerator.getDefault();
+```
+
+***Passaggio dei parametri:*** Come in C, vengono passati in copia. Due variabili non possono esser scambiate, ma possiamo scambiare i riferimenti
+
+Es.
+```
+public static void swap (Point a, Point b){  
+    int x1 = a.x;  
+    int y1 = a.y;  
+    a.setLocation(b.x, b.y);  
+    b.setLocation(x1, y1);  
+}  
+public Point(int x, int y){  
+    this.x = x;  
+    this.y = y;  
+}  
+public static void main (String[] args){  
+    Point p2 = new Point(2 , 2);  
+    Point p1 = new Point(1 , 1);  
+    swap(p1, p2);   
+}
+```
+
+``/**`` permette di descrivere la funzione che abbiamo appena descritto
+
+
+**LA FUNZIONE PERFETTA PRENDE POCHE PARAMETRI, E' CORTA E FA UNA SOLA COSA**
