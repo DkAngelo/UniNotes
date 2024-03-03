@@ -10,7 +10,5 @@ La programmazione ad oggetti ci permette di avere un linguaggio più pulito, cos
 
 > ***Concetto di interfacce***: concetti astratti che trovano applicazioni concrete. Permettono di definire gruppi di metodi che consentono di modificare le dipendenze tra vari oggetti, così da modificare il codice senza dover propagare le modifiche sino al main (vedi immagine sottostante)
 
-![[Images/Pasted image 20240303123224.png]]
 
-
-
+![](Images/Pasted%20image%2020240303123709.png)
