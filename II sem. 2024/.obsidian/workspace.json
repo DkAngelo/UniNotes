@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
+                "file": "Programmazione a oggetti/01-03 Introduzione a Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
+                "file": "Programmazione a oggetti/01-03 Introduzione a Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
+                "file": "Programmazione a oggetti/01-03 Introduzione a Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md"
+                "file": "Programmazione a oggetti/01-03 Introduzione a Java.md"
               }
             }
           }
@@ -152,16 +152,17 @@
       "cmdr:Git: List changed files": false
     }
   },
-  "active": "04e73ea2c4df56e9",
+  "active": "c62edc95d861523a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md",
     "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
-    "Programmazione a oggetti/27-02 Introduzione al corso.md",
-    "Programmazione a oggetti/01-03 Introduzione a Java.md",
     "Excalidraw/Images/Pasted Image 20240303115116_566.png",
     "Excalidraw/Images/Pasted Image 20240303115149_573.png",
     "Excalidraw/Images",
+    "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md",
     "Excalidraw/Drawing 2024-03-03 11.51.01.excalidraw.md",
+    "Excalidraw",
+    "Programmazione a oggetti/27-02 Introduzione al corso.md",
+    "Programmazione a oggetti/01-03 Introduzione a Java.md",
     "Pasted image 20240303115041.png",
     "Programmazione a oggetti/Images/Pasted image 20240303115812.png",
     "Programmazione a oggetti/Images/Pasted image 20240302130323.png",
@@ -177,7 +178,6 @@
     "Untitled.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-03-01 14.54.42.excalidraw.md",
-    "Excalidraw",
     "Excalidraw/Drawing 2024-03-01 14.53.48.excalidraw.md",
     "Excalidraw/Drawing 2024-03-01 14.53.27.excalidraw.md",
     "UniNotes/LICENSE",
