@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4acc217bc595718",
+        "id": "78545d2fa39ba6a3",
         "type": "tabs",
         "children": [
           {
-            "id": "6b6a3b5ce6474c1f",
+            "id": "c62edc95d861523a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -152,8 +152,10 @@
       "cmdr:Git: List changed files": false
     }
   },
-  "active": "6b6a3b5ce6474c1f",
+  "active": "04e73ea2c4df56e9",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md",
+    "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
     "Programmazione a oggetti/27-02 Introduzione al corso.md",
     "Programmazione a oggetti/01-03 Introduzione a Java.md",
     "Excalidraw/Images/Pasted Image 20240303115116_566.png",
@@ -161,13 +163,11 @@
     "Excalidraw/Images",
     "Excalidraw/Drawing 2024-03-03 11.51.01.excalidraw.md",
     "Pasted image 20240303115041.png",
-    "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md",
     "Programmazione a oggetti/Images/Pasted image 20240303115812.png",
     "Programmazione a oggetti/Images/Pasted image 20240302130323.png",
     "Sistemi Operativi/Images",
     "Sistemi Operativi/Untitled.md",
     "Programmazione a oggetti/Images",
-    "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
     "Pasted image 20240302114700.png",
     "Pasted image 20240302114642.png",
     "Pasted image 20240302114611.png",
