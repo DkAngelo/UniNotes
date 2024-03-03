@@ -11,9 +11,11 @@
             "id": "ccd19e1589d45f60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Programmazione a oggetti/Images/Pasted image 20240303123736.png"
+                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmazione a oggetti/Images/Pasted image 20240303123736.png",
+                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmazione a oggetti/Images/Pasted image 20240303123736.png",
+                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmazione a oggetti/Images/Pasted image 20240303123736.png"
+                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md"
               }
             }
           }
@@ -150,10 +152,10 @@
       "cmdr:Git: List changed files": false
     }
   },
-  "active": "04e73ea2c4df56e9",
+  "active": "ccd19e1589d45f60",
   "lastOpenFiles": [
-    "Programmazione a oggetti/01-03 Introduzione a Java.md",
     "Programmazione a oggetti/Images/Pasted image 20240303123736.png",
+    "Programmazione a oggetti/01-03 Introduzione a Java.md",
     "Programmazione a oggetti/27-02 Introduzione al corso.md",
     "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md",
     "Excalidraw/Drawing 2024-03-03 11.51.01.excalidraw.md",
