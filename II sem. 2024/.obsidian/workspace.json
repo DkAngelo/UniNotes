@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f41ec55b4b706425",
+            "id": "6b6a3b5ce6474c1f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md"
+                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -36,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md",
+                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md",
+                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md"
+                "file": "Sistemi Operativi/28-02 Scheduling, gestione RAM.md"
               }
             }
           }
@@ -142,23 +144,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "cmdr:Git: Create backup and close": false,
-      "cmdr:Git: Stage current file": false,
       "cmdr:Git: Commit all changes with specific message": false,
       "cmdr:Git: Push": false,
       "cmdr:Git: Pull": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "cmdr:Git: List changed files": false
     }
   },
-  "active": "f41ec55b4b706425",
+  "active": "6b6a3b5ce6474c1f",
   "lastOpenFiles": [
-    "Programmazione a oggetti/Drawing 2024-03-01 17.05.41.excalidraw.md",
+    "Programmazione a oggetti/27-02 Introduzione al corso.md",
     "Programmazione a oggetti/01-03 Introduzione a Java.md",
+    "Excalidraw/Images/Pasted Image 20240303115116_566.png",
+    "Excalidraw/Images/Pasted Image 20240303115149_573.png",
+    "Excalidraw/Images",
+    "Excalidraw/Drawing 2024-03-03 11.51.01.excalidraw.md",
+    "Pasted image 20240303115041.png",
     "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md",
+    "Programmazione a oggetti/Images/Pasted image 20240303115812.png",
+    "Programmazione a oggetti/Images/Pasted image 20240302130323.png",
+    "Sistemi Operativi/Images",
+    "Sistemi Operativi/Untitled.md",
+    "Programmazione a oggetti/Images",
+    "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
+    "Pasted image 20240302114700.png",
+    "Pasted image 20240302114642.png",
+    "Pasted image 20240302114611.png",
     "Sistemi Operativi/29-02 Unix.md",
     "Sistemi Operativi/29-02 File system.md",
+    "Programmazione a oggetti/Drawing 2024-03-01 17.05.41.excalidraw.md",
     "Untitled.md",
-    "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-03-01 14.54.42.excalidraw.md",
     "Excalidraw",

@@ -1,7 +1,7 @@
 Java produce codice per una Java virtual machine, file .class che ci permettono di eseguire i nostri progetti in qualsiasi S.O.
-La traduzione è diventata molto ottimale, che rende Java molto vicino alle prestazioni su codice nativo
-E' un linguaggio staticamente tipizzato, in quanto molto rigido per l'assegnazione dei tipi
-Java dealloca la memoria in automatico grazie ad un cosiddetto *garbage collector*
+La traduzione è diventata molto ottimale, che rende Java molto vicino alle prestazioni su codice nativo.
+E' un linguaggio *staticamente tipizzato*, in quanto molto rigido per l'assegnazione dei tipi.
+Java dealloca la memoria in automatico grazie ad un cosiddetto *garbage collector*.
 
 ***Organizzazione di un progetto Java***
 Nel main:
@@ -12,7 +12,7 @@ Due cartelle:
 
 Il codice può inoltre essere organizzato in package. Per definizione queste sono cartelle con file interni, e al loro interno vi sono delle cosiddette classi
 - ``System`` rappresenta per l'appunto il sistema. Usato in combinazione con out (``System.out``) rappresenta lo standard output
-- ``Static`` permette di programmare in linguaggio procedurale, il chè significa che funzioni con static si chiamano le une con le altre
+- ``Static`` permette di programmare in linguaggio procedurale, il ché significa che funzioni con static si chiamano le une con le altre
 
 ***Tipi primitivi***
 
@@ -25,8 +25,9 @@ Il codice può inoltre essere organizzato in package. Per definizione queste son
 | ``float``  | 32    |
 | ``double`` | 64    |
 | ``char``   | 2     |
-**N.B.** l'assegnazione di un float richiede una F dopo aver scritto il numero es.``float a = 1.2F``
-	 la dimensione dei ``char`` è di 2 byte in quanto Java non è collegato ad ASCII ma ad UNIcode, quindi ha bisogno di più spazio
+> **N.B.** l'assegnazione di un float richiede una F dopo aver scritto il numero 
+> *es.* ``float a = 1.2F``
+> La dimensione dei ``char`` è di 2 byte in quanto Java non è collegato ad ASCII ma ad Unicode, quindi ha bisogno di più spazio
 
 *Altri primitivi*
 ``boolean`` (true/false)
@@ -39,7 +40,7 @@ int a = 45;
 long b = a;
 ````
 
-> ``String s = new String(original: "nicola")``
+> ``String s = new String(original: "Nicola")``
 	Le variabili vengono chiamate varabili riferite, in quanto la parte a destra dell'uguale sono l'oggetto puntato dalla parte a sinistra
 
 > Se inserisco ``public static`` prima di uno dei tipi primitivi, rendo quella variabile disponibile a tutti le altre funzioni. Inserendo ``public static final``, lo rendo costante
@@ -47,6 +48,7 @@ long b = a;
 ***Operatori***: Uguali a quelli del C
 
 ***Altri tipi***
+
 ``Point``
 ``var``: il tipo della variabile dipenderà da cosa scriveremo dopo la variabile
 Es. 
@@ -62,6 +64,8 @@ var p = new Point()
 ```
 import java.util.Random;  
 import java.util.random.RandomGenerator;
+
+//nella funzione
 randomgenerator rnd = randomgenerator.getDefault();
 ```
 
@@ -88,5 +92,4 @@ public static void main (String[] args){
 
 ``/**`` permette di descrivere la funzione che abbiamo appena descritto
 
-
-**LA FUNZIONE PERFETTA PRENDE POCHE PARAMETRI, E' CORTA E FA UNA SOLA COSA**
+![[Pasted image 20240302130323.png]]
