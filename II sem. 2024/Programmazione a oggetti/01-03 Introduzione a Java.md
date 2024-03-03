@@ -92,4 +92,4 @@ public static void main (String[] args){
 
 ``/**`` permette di descrivere la funzione che abbiamo appena descritto
 
-![[Pasted image 20240302130323.png]] 
+![[Images/Pasted image 20240303123315.png]]
