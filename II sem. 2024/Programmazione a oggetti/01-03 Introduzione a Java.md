@@ -92,4 +92,32 @@ public static void main (String[] args){
 
 ``/**`` permette di descrivere la funzione che abbiamo appena descritto
 
+All'interno del linguaggio Java sono presenti anche funzioni con lo stesso comportamento del linguaggio C, ad esempio ``if`` e ``switch``.
+Questo è però possibile riscriverlo in questo modo:
+```
+switch(grade){
+	case ('A') ->
+	case ('B') ->
+	default ->
+}
+```
+ 
+ *Costrutti iterativi*
+ 
+ Anche il ``while`` e il ``for`` sono identici al C.
+ In realtà il ``for`` ha però un altra notazione se ciò che abbiamo da stampare è un array, in quanto considerati *collezioni di dati*:
+ ```
+ String[] cars = { "punto", "supra", "m3"};
+ for(int k = 0, k < cars.lenght, k++){
+	 System.out.pintln(cars[k]);
+ }
+
+//better version
+for(String car: cars){
+	System.out.println(car);
+}
+ ```
+ > A questo punto, l'indice verrà utilizzato solo se strettamente necessario (es. bisogna saltare all'interno dei dati in base a specifiche condizioni)
+ 
+
 ![](Images/Pasted%20image%2020240303123736.png)

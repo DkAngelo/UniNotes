@@ -1,0 +1,40 @@
+Le stringhe, rispetto al C, sono immutabili. L'unica cosa che è possibile fare è mutare il riferimento in utilizzo per puntare ad un nuovo oggetto stringa. Il vecchio oggetto infatti viene deallocato ed eliminato automaticamente dal garbage collector in quanto senza riferimento.
+La scrittura originale prevede questo:
+```
+String s = new String("cicico");
+```
+Tuttavia il metodo più utilizzato per creare una stringa è questa:
+```
+String s1 = "ciao"
+```
+Inoltre, se scrivo due stringhe uguali scritte in questo modo puntano in memoria allo stesso elemento, mentre scritte nel primo modo sono due oggetti diversi che hanno lo stesso contenuto.
+```
+String s1 = "ciao";
+String s2 = "ciao";
+if(s1 == s2){
+	System.out.println("They point to the same obj");
+}
+```
+L'operatore binario ``==`` ci permette di confrontare i riferimenti. ``s1 == s2`` ci permette di capire quindi se gli indirizzi sono uguali, non i contenuti.
+Per confrontare i contenuti si usa il metodo ``equals``:
+```
+if(s1.equals(s2)){
+	System.out.println("They have the same content");
+}
+```
+La concatenazione di stringhe avviene con l'operazione binaria ``+``, ma viene utilizzato solo per operazioni relativamente semplici (ad es., il ``+`` non viene utilizzato nelle iterazioni, dove possiamo utilizzare il seguente metodo:
+```
+for(int i = 0, i < 10000, i++){
+	stringBuilder.append('A');
+}
+String output = stringBuilder.tostring
+```
+)
+
+***String main methods (link all'API)***
+- ``s.charAt(<index>)`` stampa il carattere in posizione *index* della stringa s
+- ``s.lenght( )`` indica la lunghezza di s
+- ``s.startsWith(<stringa>)`` indica se la stringa s inizia con *string* 
+- ``s.endsWith( )`` indica se la stringa s finisce con *string*
+- ``s.toUppercase( )`` uppercase della stringa s
+- ...

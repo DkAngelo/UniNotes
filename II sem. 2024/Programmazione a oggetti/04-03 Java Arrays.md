@@ -1,0 +1,41 @@
+(link all'API di string)
+Gli array sono gruppi di dati dello stesso tipo memorizzati in un contenitore di dimensione fissata.
+```
+int[] i = { 1, 2, 3, 4, 5, 6, 7}
+```
+La prima parte della variabile vive nello stack, mentre la seconda nell'heap. Se un array viene inizializzato in questo modo, è ovviamente impossibile cambiarne la dimensione, ma è possibile però cambiarne i valori contenuti.
+Una differenza significativa rispetto al linguaggio C è che gli array sono oggetti, il ché vuol dire che il nome di un array non contiene solamente il primo elemento come in C, ma molte informazioni.
+``v2.lenght``, ad esempio, ci permette di ottenere la dimensione dell'array ``v2``. Come abbiamo detto però, la dimensione degli array non può essere modificata, e quindi sono via via meno utilizzati.
+
+```
+int[] v1 = new int[10]
+```
+Java alloca gli array direttamente inizializzati a NULL. Il vettore ``v1`` conterrà al suo interno quindi 10 elementi 0.
+
+Nel caso in cui gli array che andiamo a descrivere non sono tipi primitivi (ad esempio ``Point`` e ``String``), gli array creati sono *array di riferimenti*, il ché vuol dire che gli elementi memorizzati non sono contigui in memoria e ci permette di contenere oggetti di dimensione diversa.
+**Es.**
+``Point[] v2 = new Point[10]`` conterrà quindi 10 riferimenti, che riferiranno a 10 oggetti punto..
+(inserisci immagine delle slide per comprensione)
+
+***Array multidimensionali***
+```
+int [][] matrix = new int[5][5];
+matrix[1][1] = 1;
+```
+L'unica differenza significativa rispetto al C nel trattamento dei dati multidimensionali riguarda sempre i tipi non primitivi come ``String`` (array di riferimenti multidimensionali)
+(inserire immagine)
+
+
+```
+Scanner scanner = new Scanner(System.in);
+```
+Permette di processare ciò che l'utente scrive gli input da tastiera. Tuttavia, gli input da tastiera sono più che rari.
+
+Gli array sono oggetti, quindi è ovviamente possibile passarli ai metodi come parametri. Ai metodi vengono passati i riferimenti degli oggetti, il ché vuol dire che se al loro interno vado a modificare gli oggetti originali, le modifiche vengono effettivamente salvate al loro interno.
+
+***Array utilities: java.util.arrays (aggiungi link all'API)***
+- ``Arrays.fill( )`` permette di riempire un array con un valore dato
+- ``Arrays.toString( )`` trasforma un array in stringa
+- ``Arrays.sort( )`` permette di riordinare un vettore
+- ``Arrays.asList( )`` trasforma l'array in una collezione dinamica
+- ``Arrays.binarySearch( )`` binary search di un elemento nell'array (inizia a contare gli index da 1. Richiede che il vettore sia ordinato

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/29-02 Unix pt.1.md",
+                "file": "Programmazione a oggetti/04-03 Java Strings.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi Operativi/29-02 Unix pt.1.md",
+                "file": "Programmazione a oggetti/04-03 Java Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi Operativi/29-02 Unix pt.1.md",
+                "file": "Programmazione a oggetti/04-03 Java Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi Operativi/29-02 Unix pt.1.md"
+                "file": "Programmazione a oggetti/04-03 Java Strings.md"
               }
             }
           }
@@ -167,13 +167,15 @@
   },
   "active": "58c35d2a2c73bb61",
   "lastOpenFiles": [
-    "Sistemi Operativi/04-03 Unix pt.2.md",
+    "Programmazione a oggetti/04-03 Java Arrays.md",
+    "Programmazione a oggetti/04-03 Java Strings.md",
+    "Programmazione a oggetti/01-03 Introduzione a Java.md",
     "Sistemi Operativi/29-02 Unix pt.1.md",
+    "Sistemi Operativi/04-03 Unix pt.2.md",
     "Unix pt.1.md",
     "Sistemi Operativi/29-02 File system.md",
     "Programmazione a oggetti/27-02 Introduzione al corso.md",
     "Programmazione a oggetti/Images/Pasted image 20240303123736.png",
-    "Programmazione a oggetti/01-03 Introduzione a Java.md",
     "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md",
     "Excalidraw/Drawing 2024-03-03 11.51.01.excalidraw.md",
     "Programmazione a oggetti/Images/Pasted image 20240303123709.png",
