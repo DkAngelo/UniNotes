@@ -55,7 +55,7 @@ comando [-opzioni]
 	- ``-RF``: visualizza directory, contrassegnate con uno slash, e file eseguibili, contrassegnati con un asterisco
 	- ``-r``: reverse, visualizza i file in ordine alfabetico invertito
 	- ``-t``: file visualizzati in ordine di modifica del file (dal più recente al meno recente)
-	- ``-l``: long, mostra ulteriori informazioni nei riguardi dei file visualizzatI. In ordine:
+	- ``-l``: long, mostra ulteriori informazioni nei riguardi dei file visualizzati. In ordine:
 		i diritti della tripletta UGO (vedi #protezione in [04-03 Unix pt.2](04-03%20Unix%20pt.2.md) )il proprietario, il gruppo di appartenenza del proprietario, dimensione in byte dei file, data dell'ultima modifica del file (se di anni precedenti viene utilizzato l'anno, altrimenti viene visualizzato un orario)
 	- ``-ld <nome directory>``: mostra le caratteristiche della directory trattata come file
 
