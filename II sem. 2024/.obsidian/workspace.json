@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3e04898f38894dc6",
+        "id": "9f0540bbd735c04d",
         "type": "tabs",
         "children": [
           {
-            "id": "ccd19e1589d45f60",
+            "id": "8560e95ab15f0760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md",
+                "file": "Sistemi Operativi/04-03 Unix pt.2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58c35d2a2c73bb61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemi Operativi/29-02 Unix pt.1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md",
+                "file": "Sistemi Operativi/29-02 Unix pt.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md",
+                "file": "Sistemi Operativi/29-02 Unix pt.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md"
+                "file": "Sistemi Operativi/29-02 Unix pt.1.md"
               }
             }
           }
@@ -152,11 +165,15 @@
       "cmdr:Git: List changed files": false
     }
   },
-  "active": "ccd19e1589d45f60",
+  "active": "58c35d2a2c73bb61",
   "lastOpenFiles": [
+    "Sistemi Operativi/04-03 Unix pt.2.md",
+    "Sistemi Operativi/29-02 Unix pt.1.md",
+    "Unix pt.1.md",
+    "Sistemi Operativi/29-02 File system.md",
+    "Programmazione a oggetti/27-02 Introduzione al corso.md",
     "Programmazione a oggetti/Images/Pasted image 20240303123736.png",
     "Programmazione a oggetti/01-03 Introduzione a Java.md",
-    "Programmazione a oggetti/27-02 Introduzione al corso.md",
     "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md",
     "Excalidraw/Drawing 2024-03-03 11.51.01.excalidraw.md",
     "Programmazione a oggetti/Images/Pasted image 20240303123709.png",
@@ -171,11 +188,8 @@
     "Excalidraw",
     "Pasted image 20240303115041.png",
     "Sistemi Operativi/Images",
-    "Sistemi Operativi/Untitled.md",
     "Programmazione a oggetti/Images",
     "Pasted image 20240302114700.png",
-    "Sistemi Operativi/29-02 Unix.md",
-    "Sistemi Operativi/29-02 File system.md",
     "Programmazione a oggetti/Drawing 2024-03-01 17.05.41.excalidraw.md",
     "Untitled.md",
     "Untitled.canvas",

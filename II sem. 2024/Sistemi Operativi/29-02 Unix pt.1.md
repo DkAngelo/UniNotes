@@ -38,28 +38,40 @@ Il processo shell padre esecuzione controlla la presenza del metacarattere & pri
 - con il carattere &, ritorna direttamente al promt dei comandi (esecuzione in background)
 - per abortire l'esecuzione di un comando, bisogna usare *CTRL+C*. Questo funziona solo con esecuzioni in foreground; in background bisogna usare il comando ``kill`` 
 
-***Comandi***
+***Comandi*** #comandi 
 *sudoers*: utenti che possono utilizzare il comando ``sudo`` (super user do). Tali utenti possono, immettendo la propria password, di eseguire comandi che possono eseguire solo i super utenti
 ```
 Formato generale dei comandi:
 comando [-opzioni]
 ```
-**N.B.** le opzioni possono essere combinate, scrivendo un solo meno e l'elenco dei caratteri che ci servono
 
-``pwd`` mostra la directory corrente
-``ls`` lista file nella directory
-``cat <path completo>``  stampa il file descritto. Se ci si sposta in un'altra directory si può utilizzare il path relativo
-``id`` permette di scoprire l'UID e il GID e i loro nomi
-``who`` specifica chi è connesso al S.O. in quel momento
-``ps`` process status; mostra il PID e altre informazioni dei processi (prese dal descrittore di processo corrispondente)
-- ``-f``: full, mostra la descrizione completa dei processi, tra cui PPID, parent PID
-- ``-l``: long, aggiunge ancora più informazioni (tra cui lo stato del processo, la wait chain)
-- ``-e``: every, tutti i processi attivi nel sistema
-k swap d
-la d sta per demon, e sono processi che sono per la maggior parte del tempo sospesi ma sono indispensabili per il funzionamento del sistema, mentre la k sta per kernel
-``which <comando>`` da il path dell'eseguibile del comando descritto
-``whereis <comando>`` which più esteso, inserendo il path del manuale del comando descritto
-``man <comando>`` mostra il manuale del comando descritto. Per la pagina si usa *spacebar* per andare avanti di una pagina per quella risoluzione, mentre *enter* per andare avanti una riga per volta
+> **N.B.** le opzioni possono essere combinate, scrivendo un solo meno e l'elenco dei caratteri che ci servono. I comandi sono *case sensitive*, mentre il carattere `.` non viene riconosciuto come carattere speciale (posso metterne diversi senza problemi).
+
+- ``pwd`` mostra la directory corrente
+- ``ls`` lista file nella directory
+	- ``-A``: fa comparire i file nascosti (quelli con ``.`` come primo carattere)
+	- ``-a``: compaiono i file ``.`` e ``..``, i quali indicano rispettivamente un autolink e un puntatore alla directory padre. Vengono ovviamente utilizzati per navigare nel file system senza dover specificare path troppo complicati
+	- ``-R``: permette di visualizzare i sub-file, ossia file contenuti all'interno dei file visualizzati
+	- ``-RF``: visualizza directory, contrassegnate con uno slash, e file eseguibili, contrassegnati con un asterisco
+	- ``-r``: reverse, visualizza i file in ordine alfabetico invertito
+	- ``-t``: file visualizzati in ordine di modifica del file (dal più recente al meno recente)
+	- ``-l``: long, mostra ulteriori informazioni nei riguardi dei file visualizzatI. In ordine:
+		i diritti della tripletta UGO (vedi #protezione in [04-03 Unix pt.2](04-03%20Unix%20pt.2.md) )il proprietario, il gruppo di appartenenza del proprietario, dimensione in byte dei file, data dell'ultima modifica del file (se di anni precedenti viene utilizzato l'anno, altrimenti viene visualizzato un orario)
+	- ``-ld <nome directory>``: mostra le caratteristiche della directory trattata come file
+
+- ``cat <path completo>``  stampa il file descritto. Se ci si sposta in un'altra directory si può utilizzare il path relativo. Il path relativo non incomincia con /, in quanto non parte dalla root
+- ``id`` permette di scoprire l'UID e il GID e i loro nomi
+- ``who`` specifica chi è connesso al S.O. in quel momento
+- ``ps`` process status; mostra il PID e altre informazioni dei processi (prese dal descrittore di processo corrispondente)
+	- ``-f``: full, mostra la descrizione completa dei processi, tra cui PPID, parent PID
+	- ``-l``: long, aggiunge ancora più informazioni (tra cui lo stato del processo, la wait chain)
+	- ``-e``: every, tutti i processi attivi nel sistema
+*Esempio di nome di un processo*: "k swap d"
+	la d sta per demon, e sono processi che sono per la maggior parte del tempo sospesi ma sono indispensabili per il funzionamento del sistema, mentre la k sta per kernel
+
+- ``which <comando>`` da il path dell'eseguibile del comando descritto
+- ``whereis <comando>`` which più esteso, inserendo il path del manuale del comando descritto
+- ``man <comando>`` mostra il manuale del comando descritto. Per la pagina si usa *spacebar* per andare avanti di una pagina per quella risoluzione, mentre *enter* per andare avanti una riga per volta
 
 ***Fase di ricerca del comando***
 Il comando viene ricercato attraverso una variabile all'interno di una delle directory di sistema
