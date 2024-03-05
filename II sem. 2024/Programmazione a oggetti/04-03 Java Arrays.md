@@ -13,15 +13,18 @@ Java alloca gli array direttamente inizializzati a NULL. Il vettore ``v1`` conte
 
 Nel caso in cui gli array che andiamo a descrivere non sono tipi primitivi (ad esempio ``Point`` e ``String``), gli array creati sono *array di riferimenti*, il ché vuol dire che gli elementi memorizzati non sono contigui in memoria e ci permette di contenere oggetti di dimensione diversa.
 **Es.**
-``Point[] v2 = new Point[10]`` conterrà quindi 10 riferimenti, che riferiranno a 10 oggetti punto..
+``Point[] v2 = new Point[10]`` conterrà quindi 10 riferimenti, che riferiranno a 10 oggetti punto.
+
 ![](Images/Pasted%20image%2020240304194545.png)
 
-***Array multidimensionali***
+## Array multidimensionali
+
 ```
 int [][] matrix = new int[5][5];
 matrix[1][1] = 1;
 ```
 L'unica differenza significativa rispetto al C nel trattamento dei dati multidimensionali riguarda sempre i tipi non primitivi come ``String`` (array di riferimenti multidimensionali)
+
 ![](Images/Pasted%20image%2020240304194604.png)
 
 ```
@@ -31,7 +34,7 @@ Permette di processare ciò che l'utente scrive gli input da tastiera. Tuttavia,
 
 Gli array sono oggetti, quindi è ovviamente possibile passarli ai metodi come parametri. Ai metodi vengono passati i riferimenti degli oggetti, il ché vuol dire che se al loro interno vado a modificare gli oggetti originali, le modifiche vengono effettivamente salvate al loro interno.
 
-***[Array utilities](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Arrays.html)***
+## [Array utilities](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Arrays.html)
 - ``Arrays.fill( )`` permette di riempire un array con un valore dato
 - ``Arrays.toString( )`` trasforma un array in stringa
 - ``Arrays.sort( )`` permette di riordinare un vettore

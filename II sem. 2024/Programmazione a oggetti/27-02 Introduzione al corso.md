@@ -1,8 +1,7 @@
 L'obiettivo della programmazione ad oggetti è unire variabili e funzioni (anche detti attributi e metodi) in un concetto aggregante chiamato ***classe***.
 Questo ci permette di aumentare la riutilizzabilità del codice in altri programmi. 
 La programmazione ad oggetti ci permette di avere un linguaggio più pulito, costruendo codici con soggetti e predicati.
-
-***OOP features*** 
+## OOP features 
 
 - **Incorporamento**: i metodi sono esposti fuori, mentre gli attributi all'interno (era possibile farlo anche in C grazie agli *header files e le struct* )
 - **Ereditarietà**: possibilità di definire un concetto partendo da un altro (da una classe generica ad una piu' specifica, ad es ANIMALE -> UMANO)

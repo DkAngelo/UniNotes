@@ -30,8 +30,7 @@ for(int i = 0, i < 10000, i++){
 String output = stringBuilder.tostring
 ```
 )
-
-***[String main methods](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/String.html)***
+## [String main methods](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/String.html)
 - ``s.charAt(<index>)`` stampa il carattere in posizione *index* della stringa s
 - ``s.lenght( )`` indica la lunghezza di s
 - ``s.startsWith(<stringa>)`` indica se la stringa s inizia con *string* 

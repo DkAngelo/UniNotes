@@ -3,7 +3,7 @@ La traduzione è diventata molto ottimale, che rende Java molto vicino alle pres
 E' un linguaggio *staticamente tipizzato*, in quanto molto rigido per l'assegnazione dei tipi.
 Java dealloca la memoria in automatico grazie ad un cosiddetto *garbage collector*.
 
-***Organizzazione di un progetto Java***
+## Organizzazione di un progetto Java
 Nel main:
 Due cartelle:
 - com
@@ -14,7 +14,7 @@ Il codice può inoltre essere organizzato in package. Per definizione queste son
 - ``System`` rappresenta per l'appunto il sistema. Usato in combinazione con out (``System.out``) rappresenta lo standard output
 - ``Static`` permette di programmare in linguaggio procedurale, il ché significa che funzioni con static si chiamano le une con le altre
 
-***Tipi primitivi***
+## Tipi primitivi
 
 | ``Tipo``   | bytes |
 | ---------- | ----- |
@@ -57,7 +57,7 @@ var p = new Point()
 ```
 > Dopo tale assegnazione, p non può diventare un altro tipo di variabile (es. non posso assegnargli un int)
 
-***Alcune funzioni base***
+## Alcune funzioni base
 ``s.startsWith(<stringa>)`` ci dice se la stringa s inizia con la stringa descritta
 
 *Randomizer:* 
@@ -102,8 +102,8 @@ switch(grade){
 }
 ```
  
- *Costrutti iterativi*
- 
+***Costrutti iterativi***
+
  Anche il ``while`` e il ``for`` sono identici al C.
  In realtà il ``for`` ha però un altra notazione se ciò che abbiamo da stampare è un array, in quanto considerati *collezioni di dati*:
  ```
