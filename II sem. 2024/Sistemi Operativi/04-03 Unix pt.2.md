@@ -12,7 +12,6 @@ Come per il logout, ``exit`` viene utilizzato anche per terminare shell avviate.
 
 ## Altri comandi
 #comandi
-
 - ``echo $HOME``: indipendentemente da dove mi trovo mi indica il path della mia home directory 
 - ``cd``: change directory; usato da solo ci riporta alla home directory
 - ``touch <nome-file>``: modifica il file, e quindi la data della sua ultima modifica

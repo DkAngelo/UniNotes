@@ -2,7 +2,7 @@ Il file system è quella parte di S.O. si occupa della gestione dei file, dando 
 
 >    *Concetto di file: Insieme di informazioni o di dati correlati sotto un punto di vista logico*
 
-## ***Funzioni del file system***
+## Funzioni del file system
 - Identificare in modo univoco i contenitori di informazioni (*regola di naming*)
 - lavorare in maniera astratta 
 - fornire dei metodi di accesso per poi poter agire sui file (*scrittura, lettura*)
@@ -25,7 +25,7 @@ Il file system è la parte più visibile di un S.O., in quanto la maggior parte 
 
 E' possibile utilizzare abbreviazioni dei nomi dei file, metacaratteri detti *wildcards*
 
-## ***Directory***
+## Directory
 Ogni volta che viene creato un oggetto a lungo tempo di vita bisogna preservare il collegamento tra nome e informazioni del file. Ciò avviene tramite una struttura chiamata *descrittore di file*.
 Qualunque sia il S.O., esistono due informazioni minime che esistono sempre: locazione e nome del file. Il descrittore vengono mantenuti in strutture dati dette *directory*
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/29-02 File system.md",
+                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi Operativi/29-02 File system.md",
+                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi Operativi/29-02 File system.md",
+                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi Operativi/29-02 File system.md"
+                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md"
               }
             }
           }
@@ -154,15 +154,15 @@
   },
   "active": "feedb1d9680a9326",
   "lastOpenFiles": [
-    "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
+    "README.md",
     "Sistemi Operativi/04-03 Unix pt.2.md",
+    "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
+    "Sistemi Operativi/29-02 File system.md",
+    "Sistemi Operativi/29-02 Unix pt.1.md",
     "Programmazione a oggetti/27-02 Introduzione al corso.md",
     "Programmazione a oggetti/04-03 Java Strings.md",
     "Programmazione a oggetti/04-03 Java Arrays.md",
     "Programmazione a oggetti/01-03 Introduzione a Java.md",
-    "README.md",
-    "Sistemi Operativi/29-02 Unix pt.1.md",
-    "Sistemi Operativi/29-02 File system.md",
     "Programmazione a oggetti/Images/Pasted image 20240304194604.png",
     "Programmazione a oggetti/Images/Pasted image 20240304194545.png",
     "Unix pt.1.md",

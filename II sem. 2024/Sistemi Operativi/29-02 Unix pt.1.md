@@ -1,10 +1,10 @@
-## ***Caratteristiche***
+## Caratteristiche
 Multiprogrammato, multiprocesso e multiutente, con disponibilità di memoria virtuale.
 Tutti i gestori fanno parte del cosiddetto *kernel*, detto quindi ***kernel monolitico*** (l'unica cosa non all'interno del kernel vi è l'interfaccia testuale)
 L'accesso ad un sistema UNIX, essendo multiutente, avviene tramite una fase di login, fornendo quindi un username ed una password ad esso collegata. La sessione viene terminata attraverso ad una fase di logout, che da interfaccia testuale avviene tramite il comando *exit* o la combinazione di tasti *CTRL+D*, il quale rappresenta l'EOF nello standard input. 
 UNIX fornisce a livello sistemistico diverse interfacce testuali, chiamate storicamente *shell*. Qualunque sia la shell usata, però, l'atteggiamento è sempre lo stesso: rimane in attesa dei comandi immessi dall'utente fino alla fase di logout. La shell assegnata ad un certo utente è indicata all'interno del file di sistema *" /etc/password/ "* .
 
-## ***File system***
+## File system
 Il file system è gerarchico con possibilità di link (grafo di sottodirectory). I dispositivi vengono trattati anch'essi come file, utilizzati come astrazione unificante del S.O.
 Il file system ha come root /
 Dopodiché ha nella sua parte sottostante:
@@ -28,7 +28,7 @@ Ogni riga ha sempre questo formato:
 - in generale, l'ultimo campo è il nome assoluto di una shell e viene eseguito automaticamente all'atto del login. Possono esserci delle eccezioni, eseguendo un diverso comando al login
 Alla fine della sessione, e quindi al logout, si torna al momento in cui bisogna immettere username e password.
 
-## ***Shell (Processore comandi)***
+## Shell (Processore comandi)
 E' in grado di acquisire i comandi scritti dall'utente nel promt ed eseguirli. Funziona quindi come interprete dei comandi. A mano a mano che le istruzioni vengono inserite, queste vengono semplicemente interpretate e, nel caso in cui l'interpretazione è riuscita, vengono ricercate ed eseguite.
 Alcuni comandi sono direttamente eseguiti però dalla shell, e sono detti *comandi interni o built-in*
 I comandi possono essere descritti dall'utente oppure eseguiti attraverso uno script.
@@ -38,7 +38,8 @@ Il processo shell padre esecuzione controlla la presenza del metacarattere & pri
 - con il carattere &, ritorna direttamente al promt dei comandi (esecuzione in background)
 - per abortire l'esecuzione di un comando, bisogna usare *CTRL+C*. Questo funziona solo con esecuzioni in foreground; in background bisogna usare il comando ``kill`` 
 
-## ***Comandi*** #comandi 
+## Comandi 
+#comandi 
 ***sudoers***: utenti che possono utilizzare il comando ``sudo`` (super user do). Tali utenti possono, immettendo la propria password, di eseguire comandi che possono eseguire solo i super utenti
 ```
 Formato generale dei comandi:
