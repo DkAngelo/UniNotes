@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md",
+                "file": "Sistemi Operativi/29-02 Unix pt.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#comandi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md",
+                "file": "Sistemi Operativi/29-02 Unix pt.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md",
+                "file": "Sistemi Operativi/29-02 Unix pt.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmazione a oggetti/27-02 Introduzione al corso.md"
+                "file": "Sistemi Operativi/29-02 Unix pt.1.md"
               }
             }
           }
@@ -154,12 +155,13 @@
   },
   "active": "feedb1d9680a9326",
   "lastOpenFiles": [
-    "README.md",
     "Sistemi Operativi/04-03 Unix pt.2.md",
-    "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
-    "Sistemi Operativi/29-02 File system.md",
+    "Sistemi Operativi/06-03  Altri comandi, generalizzazione dei file.md",
     "Sistemi Operativi/29-02 Unix pt.1.md",
     "Programmazione a oggetti/27-02 Introduzione al corso.md",
+    "README.md",
+    "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
+    "Sistemi Operativi/29-02 File system.md",
     "Programmazione a oggetti/04-03 Java Strings.md",
     "Programmazione a oggetti/04-03 Java Arrays.md",
     "Programmazione a oggetti/01-03 Introduzione a Java.md",
