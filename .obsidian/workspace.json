@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "12ab2a41f814955b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9e54806436c1ecf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c343c4d1ac4be166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "II sem. 2024/Sistemi Operativi/05. Altri comandi, generalizzazione dei file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30b85d679274cbcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9668ec6572729df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d9ecd9f36138062",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "290918ec1facab36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#protezione",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8d0cfd67b0ab674",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd49cfd29a1c602a",
+    "type": "split",
+    "children": [
+      {
+        "id": "865711604cbe1b3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de36472a0628d5e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "II sem. 2024/Sistemi Operativi/05. Altri comandi, generalizzazione dei file.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eedb35c9f3ac1f30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "II sem. 2024/Sistemi Operativi/05. Altri comandi, generalizzazione dei file.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a78584b4cc3c77a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b80b0c00cf8425a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "II sem. 2024/Sistemi Operativi/05. Altri comandi, generalizzazione dei file.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c343c4d1ac4be166",
+  "lastOpenFiles": [
+    "II sem. 2024/Sistemi Operativi/03. Unix pt.1.md",
+    "II sem. 2024/Sistemi Operativi/04. Unix pt.2.md",
+    "II sem. 2024/Sistemi Operativi/05. Altri comandi, generalizzazione dei file.md",
+    "II sem. 2024/Sistemi Operativi/02. File system.md",
+    "II sem. 2024/Sistemi Operativi/01. Scheduling, gestione RAM.md",
+    "II sem. 2024/Programmazione a oggetti/04-03 Java Arrays.md",
+    "II sem. 2024/Programmazione a oggetti/01-03 Introduzione a Java.md"
+  ]
+}
