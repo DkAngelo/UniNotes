@@ -1,0 +1,9 @@
+{
+  "typomagical-colour@@theme-variant": "coherence",
+  "typomagical-colour@@background-color-enable": false,
+  "typomagical-colour@@ss-background-color": "#303030",
+  "typomagical-text@@font-default": "Spectral",
+  "typomagical-text@@link-font": "ss-links-sc",
+  "typomagical-text@@blockquote": "blockquote-plain",
+  "typomagical-text@@callout-style": "callout-border-gradient"
+}
