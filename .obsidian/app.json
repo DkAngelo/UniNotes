@@ -1,13 +1,14 @@
 {
-  "defaultViewMode": "source",
-  "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
-  "showUnsupportedFiles": true,
-  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "spellcheck": true,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true
 }

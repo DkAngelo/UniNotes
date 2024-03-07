@@ -1,0 +1,65 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-git:backup-and-close",
+      "icon": "archive",
+      "name": "Git: Create backup and close",
+      "mode": "any",
+      "color": "#00b3ff"
+    },
+    {
+      "id": "obsidian-git:commit-specified-message",
+      "icon": "arrow-up-circle",
+      "name": "Git: Commit all changes with specific message",
+      "mode": "any",
+      "color": "#00b1ff"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "icon": "airplay",
+      "name": "Git: Push",
+      "mode": "any",
+      "color": "#00b1ff"
+    },
+    {
+      "id": "obsidian-git:pull",
+      "icon": "arrow-down-circle",
+      "name": "Git: Pull",
+      "mode": "any",
+      "color": "#00b1ff"
+    },
+    {
+      "id": "obsidian-git:list-changed-files",
+      "icon": "bookmark-plus",
+      "name": "Git: List changed files",
+      "mode": "any",
+      "color": "#00b1ff"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
