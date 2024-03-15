@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/06. Programmazione nella Shell.md",
+                "file": "Programmazione a oggetti/06. Ereditarietà.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi Operativi/06. Programmazione nella Shell.md",
+                "file": "Programmazione a oggetti/06. Ereditarietà.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi Operativi/06. Programmazione nella Shell.md",
+                "file": "Programmazione a oggetti/06. Ereditarietà.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi Operativi/06. Programmazione nella Shell.md"
+                "file": "Programmazione a oggetti/06. Ereditarietà.md"
               }
             }
           }
@@ -154,10 +154,11 @@
   },
   "active": "69f17ba03b4dc95e",
   "lastOpenFiles": [
+    "Programmazione a oggetti/05. Java Classes.md",
+    "Programmazione a oggetti/06. Ereditarietà.md",
     "Sistemi Operativi/05. Altri comandi, generalizzazione dei file.md",
     "Sistemi Operativi/06. Programmazione nella Shell.md",
     "Sistemi Operativi/06. Piping dei comandi.md",
-    "Programmazione a oggetti/05. Java Classes.md",
     "Excalidraw/08-03 Testing.md",
     "Programmazione a oggetti/02. Java Arrays.md",
     "Programmazione a oggetti/03. Java Strings.md",
@@ -194,7 +195,6 @@
     "Programmazione a oggetti/Drawing 2024-03-01 17.05.41.excalidraw.md",
     "Untitled.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2024-03-01 14.54.42.excalidraw.md",
     "UniNotes/LICENSE",
     "UniNotes",
     "Programmazione a oggetti"
