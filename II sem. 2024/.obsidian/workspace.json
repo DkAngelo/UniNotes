@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmazione a oggetti/06. Ereditarietà.md",
+                "file": "Sistemi Operativi/07. Linking di file e directory.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "eef0cd8c43c20b39",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmazione a oggetti/06. Ereditarietà.md",
+                "file": "Sistemi Operativi/07. Linking di file e directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmazione a oggetti/06. Ereditarietà.md",
+                "file": "Sistemi Operativi/07. Linking di file e directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmazione a oggetti/06. Ereditarietà.md"
+                "file": "Sistemi Operativi/07. Linking di file e directory.md"
               }
             }
           }
@@ -154,46 +164,45 @@
   },
   "active": "69f17ba03b4dc95e",
   "lastOpenFiles": [
-    "Programmazione a oggetti/05. Java Classes.md",
-    "Programmazione a oggetti/06. Ereditarietà.md",
-    "Sistemi Operativi/05. Altri comandi, generalizzazione dei file.md",
     "Sistemi Operativi/06. Programmazione nella Shell.md",
-    "Sistemi Operativi/06. Piping dei comandi.md",
-    "Excalidraw/08-03 Testing.md",
-    "Programmazione a oggetti/02. Java Arrays.md",
+    "Sistemi Operativi/07. Linking di file e directory.md",
+    "Programmazione a oggetti/07. Interfacce e classi astratte.md",
     "Programmazione a oggetti/03. Java Strings.md",
-    "Sistemi Operativi/03. Unix pt.1.md",
+    "Programmazione a oggetti/06. Ereditarietà.md",
+    "Programmazione a oggetti/05. Java Classes.md",
     "Programmazione a oggetti/Images/Pasted image 20240312182922.png",
+    "Programmazione a oggetti/Images/Multiarray structure.png",
+    "Programmazione a oggetti/Images/Array structure.png",
+    "Programmazione a oggetti/Images/La funzione perfetta.png",
+    "Programmazione a oggetti/Images/Code dependencies.png",
+    "Excalidraw/Images/Pasted Image 20240303115149_573.png",
+    "Sistemi Operativi/Images/Struttura del descrittore (i-number e i-node).png",
+    "Sistemi Operativi/Images/Pasted image 20240320210049.png",
+    "Excalidraw/Drawing 2024-03-20 12.21.29.excalidraw.md",
+    "Sistemi Operativi/05. Altri comandi, generalizzazione dei file.md",
+    "Sistemi Operativi/04. Unix pt.2.md",
+    "Sistemi Operativi/03. Unix pt.1.md",
+    "Sistemi Operativi/02. File system.md",
+    "Sistemi Operativi/01. Scheduling, gestione RAM.md",
+    "Excalidraw/08-03 Testing.md",
+    "Programmazione a oggetti/01. Introduzione a Java.md",
+    "Sistemi Operativi/06. Piping dei comandi.md",
+    "Programmazione a oggetti/02. Java Arrays.md",
     "Excalidraw/Drawing 2024-03-12 18.21.05.excalidraw.md",
     "Pasted image 20240312182556.png",
     "Excalidraw/Drawing 2024-03-03 11.51.01.excalidraw.md",
     "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md",
     "Pasted image 20240312182500.png",
-    "Pasted image 20240312182424.png",
     "README.md",
-    "Programmazione a oggetti/01. Introduzione a Java.md",
     "Programmazione a oggetti/00. Introduzione al corso.md",
-    "Sistemi Operativi/02. File system.md",
-    "Sistemi Operativi/04. Unix pt.2.md",
     "Sistemi Operativi/29-02 Unix pt.1.md",
-    "Sistemi Operativi/01. Scheduling, gestione RAM.md",
     "Sistemi Operativi/04-03 Unix pt.2.md",
     "Sistemi Operativi/06-03  Altri comandi, generalizzazione dei file.md",
     "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
-    "Sistemi Operativi/29-02 File system.md",
-    "Programmazione a oggetti/Images/Pasted image 20240304194604.png",
-    "Programmazione a oggetti/Images/Pasted image 20240304194545.png",
-    "Unix pt.1.md",
-    "Programmazione a oggetti/Images/Pasted image 20240303123736.png",
-    "Programmazione a oggetti/Images/Pasted image 20240303123709.png",
-    "Programmazione a oggetti/Images/Pasted image 20240303123315.png",
-    "Programmazione a oggetti/Images/Pasted image 20240303123224.png",
     "Excalidraw/Images",
     "Excalidraw",
     "Sistemi Operativi/Images",
     "Programmazione a oggetti/Images",
-    "Programmazione a oggetti/Drawing 2024-03-01 17.05.41.excalidraw.md",
-    "Untitled.md",
     "Untitled.canvas",
     "UniNotes/LICENSE",
     "UniNotes",
