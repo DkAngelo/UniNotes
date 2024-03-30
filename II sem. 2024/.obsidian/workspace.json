@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/07. Linking di file e directory.md",
+                "file": "Programmazione a oggetti/08. Collection.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d4d3961a9dd13c8e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Sistemi Operativi/Esempio di gerarchia.md"
               }
             }
           },
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "foreg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi Operativi/07. Linking di file e directory.md",
+                "file": "Sistemi Operativi/Esempio di gerarchia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi Operativi/07. Linking di file e directory.md",
+                "file": "Sistemi Operativi/Esempio di gerarchia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi Operativi/07. Linking di file e directory.md"
+                "file": "Sistemi Operativi/Esempio di gerarchia.md"
               }
             }
           }
@@ -162,11 +173,17 @@
       "cmdr:Git: List changed files": false
     }
   },
-  "active": "69f17ba03b4dc95e",
+  "active": "d4d3961a9dd13c8e",
   "lastOpenFiles": [
-    "Sistemi Operativi/06. Programmazione nella Shell.md",
-    "Sistemi Operativi/07. Linking di file e directory.md",
+    "Programmazione a oggetti/08. Collection.md",
     "Programmazione a oggetti/07. Interfacce e classi astratte.md",
+    "Sistemi Operativi/Esempio di gerarchia.md",
+    "Sistemi Operativi/05. Altri comandi, generalizzazione dei file.md",
+    "Sistemi Operativi/08. Esecuzione in background.md",
+    "Sistemi Operativi/03. Unix pt.1.md",
+    "Sistemi Operativi/07.5. Conteggio di file.md",
+    "Sistemi Operativi/07. Linking di file e directory.md",
+    "Sistemi Operativi/06. Programmazione nella Shell.md",
     "Programmazione a oggetti/03. Java Strings.md",
     "Programmazione a oggetti/06. Ereditarietà.md",
     "Programmazione a oggetti/05. Java Classes.md",
@@ -179,9 +196,7 @@
     "Sistemi Operativi/Images/Struttura del descrittore (i-number e i-node).png",
     "Sistemi Operativi/Images/Pasted image 20240320210049.png",
     "Excalidraw/Drawing 2024-03-20 12.21.29.excalidraw.md",
-    "Sistemi Operativi/05. Altri comandi, generalizzazione dei file.md",
     "Sistemi Operativi/04. Unix pt.2.md",
-    "Sistemi Operativi/03. Unix pt.1.md",
     "Sistemi Operativi/02. File system.md",
     "Sistemi Operativi/01. Scheduling, gestione RAM.md",
     "Excalidraw/08-03 Testing.md",
@@ -196,9 +211,6 @@
     "README.md",
     "Programmazione a oggetti/00. Introduzione al corso.md",
     "Sistemi Operativi/29-02 Unix pt.1.md",
-    "Sistemi Operativi/04-03 Unix pt.2.md",
-    "Sistemi Operativi/06-03  Altri comandi, generalizzazione dei file.md",
-    "Sistemi Operativi/28-02 Scheduling, gestione RAM.md",
     "Excalidraw/Images",
     "Excalidraw",
     "Sistemi Operativi/Images",
