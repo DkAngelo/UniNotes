@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmazione a oggetti/08. Collection.md",
+                "file": "Sistemi Operativi/06. Programmazione nella Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,19 +23,11 @@
             "id": "d4d3961a9dd13c8e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/Esempio di gerarchia.md"
-              }
-            }
-          },
-          {
-            "id": "eef0cd8c43c20b39",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
+                "file": "Sistemi Operativi/06. Programmazione nella Shell.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -69,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "foreg",
+                "query": "test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi Operativi/Esempio di gerarchia.md",
+                "file": "Sistemi Operativi/06. Programmazione nella Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi Operativi/Esempio di gerarchia.md",
+                "file": "Sistemi Operativi/06. Programmazione nella Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi Operativi/Esempio di gerarchia.md"
+                "file": "Sistemi Operativi/06. Programmazione nella Shell.md"
               }
             }
           }
@@ -175,15 +168,16 @@
   },
   "active": "d4d3961a9dd13c8e",
   "lastOpenFiles": [
-    "Programmazione a oggetti/08. Collection.md",
-    "Programmazione a oggetti/07. Interfacce e classi astratte.md",
-    "Sistemi Operativi/Esempio di gerarchia.md",
     "Sistemi Operativi/05. Altri comandi, generalizzazione dei file.md",
-    "Sistemi Operativi/08. Esecuzione in background.md",
-    "Sistemi Operativi/03. Unix pt.1.md",
-    "Sistemi Operativi/07.5. Conteggio di file.md",
-    "Sistemi Operativi/07. Linking di file e directory.md",
     "Sistemi Operativi/06. Programmazione nella Shell.md",
+    "Programmazione a oggetti/08. Collection.md",
+    "Sistemi Operativi/07. Linking di file e directory.md",
+    "Sistemi Operativi/07.5. Conteggio di file.md",
+    "Sistemi Operativi/08. Esecuzione in background.md",
+    "Sistemi Operativi/Images/Esempio di gerarchia.png",
+    "Excalidraw/Esempio di gerarchia.md",
+    "Programmazione a oggetti/07. Interfacce e classi astratte.md",
+    "Sistemi Operativi/03. Unix pt.1.md",
     "Programmazione a oggetti/03. Java Strings.md",
     "Programmazione a oggetti/06. Ereditarietà.md",
     "Programmazione a oggetti/05. Java Classes.md",
@@ -207,10 +201,8 @@
     "Pasted image 20240312182556.png",
     "Excalidraw/Drawing 2024-03-03 11.51.01.excalidraw.md",
     "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md",
-    "Pasted image 20240312182500.png",
     "README.md",
     "Programmazione a oggetti/00. Introduzione al corso.md",
-    "Sistemi Operativi/29-02 Unix pt.1.md",
     "Excalidraw/Images",
     "Excalidraw",
     "Sistemi Operativi/Images",
