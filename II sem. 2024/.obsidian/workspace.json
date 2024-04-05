@@ -13,26 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/06. Programmazione nella Shell.md",
+                "file": "Programmazione a oggetti/08. Collection.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d4d3961a9dd13c8e",
+            "id": "811408a392521a96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Sistemi Operativi/06. Programmazione nella Shell.md",
-                "mode": "preview",
-                "source": false
+                "currentVersion": "1.5.12"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "test",
+                "query": "has",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi Operativi/06. Programmazione nella Shell.md",
+                "file": "Programmazione a oggetti/08. Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi Operativi/06. Programmazione nella Shell.md",
+                "file": "Programmazione a oggetti/08. Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi Operativi/06. Programmazione nella Shell.md"
+                "file": "Programmazione a oggetti/08. Collection.md"
               }
             }
           }
@@ -166,10 +163,10 @@
       "cmdr:Git: List changed files": false
     }
   },
-  "active": "d4d3961a9dd13c8e",
+  "active": "89a36431c4fa6942",
   "lastOpenFiles": [
-    "Sistemi Operativi/05. Altri comandi, generalizzazione dei file.md",
     "Sistemi Operativi/06. Programmazione nella Shell.md",
+    "Sistemi Operativi/05. Altri comandi, generalizzazione dei file.md",
     "Programmazione a oggetti/08. Collection.md",
     "Sistemi Operativi/07. Linking di file e directory.md",
     "Sistemi Operativi/07.5. Conteggio di file.md",
