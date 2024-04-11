@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69f17ba03b4dc95e",
+            "id": "605e72c64c4a235b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmazione a oggetti/08. Collection.md",
+                "file": "Python/01. Python basics - IDLE.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "has",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmazione a oggetti/08. Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmazione a oggetti/08. Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programmazione a oggetti/08. Collection.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,18 +159,32 @@
       "cmdr:Git: List changed files": false
     }
   },
-  "active": "89a36431c4fa6942",
+  "active": "811408a392521a96",
   "lastOpenFiles": [
-    "Sistemi Operativi/06. Programmazione nella Shell.md",
-    "Sistemi Operativi/05. Altri comandi, generalizzazione dei file.md",
+    "Python/01. Python basics - IDLE.md",
+    "Programmazione a oggetti/09. Interfaccia grafica.md",
+    "Python",
+    "Nuova cartella",
     "Programmazione a oggetti/08. Collection.md",
-    "Sistemi Operativi/07. Linking di file e directory.md",
-    "Sistemi Operativi/07.5. Conteggio di file.md",
-    "Sistemi Operativi/08. Esecuzione in background.md",
+    "Sistemi Operativi/Seconda Parte/09. Linguaggio C come linguaggio di sistema.md",
+    "Pasted image 20240408125710.png",
+    "Pasted image 20240408130017.png",
+    "Sistemi Operativi/Prima Parte/02. File system.md",
+    "README.md",
+    "Sistemi Operativi/Images/Area kernel dei processi.png",
+    "Sistemi Operativi/Images/Spazio Ram occupato dai processi.png",
+    "Excalidraw/Drawing 2024-04-08 11.27.53.excalidraw.md",
+    "Sistemi Operativi/Seconda Parte",
+    "Sistemi Operativi/Prima Parte",
+    "Sistemi Operativi/Prima Parte/06. Programmazione nella Shell.md",
+    "Sistemi Operativi/Prima Parte/05. Altri comandi, generalizzazione dei file.md",
+    "Sistemi Operativi/Prima Parte/07. Linking di file e directory.md",
+    "Sistemi Operativi/Prima Parte/07.5. Conteggio di file.md",
+    "Sistemi Operativi/Prima Parte/08. Esecuzione in background.md",
     "Sistemi Operativi/Images/Esempio di gerarchia.png",
     "Excalidraw/Esempio di gerarchia.md",
     "Programmazione a oggetti/07. Interfacce e classi astratte.md",
-    "Sistemi Operativi/03. Unix pt.1.md",
+    "Sistemi Operativi/Prima Parte/03. Unix pt.1.md",
     "Programmazione a oggetti/03. Java Strings.md",
     "Programmazione a oggetti/06. Ereditarietà.md",
     "Programmazione a oggetti/05. Java Classes.md",
@@ -183,30 +193,20 @@
     "Programmazione a oggetti/Images/Array structure.png",
     "Programmazione a oggetti/Images/La funzione perfetta.png",
     "Programmazione a oggetti/Images/Code dependencies.png",
-    "Excalidraw/Images/Pasted Image 20240303115149_573.png",
-    "Sistemi Operativi/Images/Struttura del descrittore (i-number e i-node).png",
-    "Sistemi Operativi/Images/Pasted image 20240320210049.png",
     "Excalidraw/Drawing 2024-03-20 12.21.29.excalidraw.md",
-    "Sistemi Operativi/04. Unix pt.2.md",
-    "Sistemi Operativi/02. File system.md",
-    "Sistemi Operativi/01. Scheduling, gestione RAM.md",
+    "Sistemi Operativi/Prima Parte/04. Unix pt.2.md",
+    "Sistemi Operativi/Prima Parte/01. Scheduling, gestione RAM.md",
     "Excalidraw/08-03 Testing.md",
     "Programmazione a oggetti/01. Introduzione a Java.md",
     "Sistemi Operativi/06. Piping dei comandi.md",
     "Programmazione a oggetti/02. Java Arrays.md",
     "Excalidraw/Drawing 2024-03-12 18.21.05.excalidraw.md",
-    "Pasted image 20240312182556.png",
-    "Excalidraw/Drawing 2024-03-03 11.51.01.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-01 16.43.12.excalidraw.md",
-    "README.md",
-    "Programmazione a oggetti/00. Introduzione al corso.md",
     "Excalidraw/Images",
     "Excalidraw",
     "Sistemi Operativi/Images",
     "Programmazione a oggetti/Images",
     "Untitled.canvas",
     "UniNotes/LICENSE",
-    "UniNotes",
-    "Programmazione a oggetti"
+    "UniNotes"
   ]
 }
