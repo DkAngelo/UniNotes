@@ -8,29 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "605e72c64c4a235b",
+            "id": "55cc798fee66b66a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Python/01. Python basics - IDLE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "811408a392521a96",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
+                "file": "Excalidraw/Drawing 2024-04-15 09.43.28.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-04-15 09.43.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-04-15 09.43.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-15 09.43.28.excalidraw.md"
+              }
             }
           }
         ]
@@ -159,32 +150,39 @@
       "cmdr:Git: List changed files": false
     }
   },
-  "active": "811408a392521a96",
+  "active": "55cc798fee66b66a",
   "lastOpenFiles": [
     "Python/01. Python basics - IDLE.md",
+    "Excalidraw/Drawing 2024-04-15 09.43.28.excalidraw.md",
+    "Excalidraw/08-03 Testing.md",
+    "Excalidraw/Drawing 2024-04-08 11.27.53.excalidraw.md",
+    "Excalidraw/Esempio di gerarchia.md",
+    "Sistemi Operativi/Seconda Parte/10. Modello dei processi Linux.md",
+    "Sistemi Operativi/Seconda Parte/09. Linguaggio C come linguaggio di sistema.md",
+    "Sistemi Operativi/Prima Parte/SP. Importanti per l'esame.md",
+    "Sistemi Operativi/Prima Parte/05. Altri comandi, generalizzazione dei file.md",
+    "Sistemi Operativi/Prima Parte/06. Programmazione nella Shell.md",
+    "Sistemi Operativi/Prima Parte/04. Unix pt.2.md",
+    "Sistemi Operativi/Prima Parte/07. Linking di file e directory.md",
+    "Sistemi Operativi/Prima Parte/07.5. Conteggio di file.md",
+    "Sistemi Operativi/Prima Parte/08. Esecuzione in background.md",
+    "Sistemi Operativi/Prima Parte/03. Unix pt.1.md",
+    "Sistemi Operativi/Prima Parte/02. File system.md",
+    "Sistemi Operativi/Prima Parte/01. Scheduling, gestione RAM.md",
+    "Programmazione a oggetti/10. Database.md",
     "Programmazione a oggetti/09. Interfaccia grafica.md",
     "Python",
     "Nuova cartella",
     "Programmazione a oggetti/08. Collection.md",
-    "Sistemi Operativi/Seconda Parte/09. Linguaggio C come linguaggio di sistema.md",
     "Pasted image 20240408125710.png",
     "Pasted image 20240408130017.png",
-    "Sistemi Operativi/Prima Parte/02. File system.md",
     "README.md",
     "Sistemi Operativi/Images/Area kernel dei processi.png",
     "Sistemi Operativi/Images/Spazio Ram occupato dai processi.png",
-    "Excalidraw/Drawing 2024-04-08 11.27.53.excalidraw.md",
     "Sistemi Operativi/Seconda Parte",
     "Sistemi Operativi/Prima Parte",
-    "Sistemi Operativi/Prima Parte/06. Programmazione nella Shell.md",
-    "Sistemi Operativi/Prima Parte/05. Altri comandi, generalizzazione dei file.md",
-    "Sistemi Operativi/Prima Parte/07. Linking di file e directory.md",
-    "Sistemi Operativi/Prima Parte/07.5. Conteggio di file.md",
-    "Sistemi Operativi/Prima Parte/08. Esecuzione in background.md",
     "Sistemi Operativi/Images/Esempio di gerarchia.png",
-    "Excalidraw/Esempio di gerarchia.md",
     "Programmazione a oggetti/07. Interfacce e classi astratte.md",
-    "Sistemi Operativi/Prima Parte/03. Unix pt.1.md",
     "Programmazione a oggetti/03. Java Strings.md",
     "Programmazione a oggetti/06. Ereditarietà.md",
     "Programmazione a oggetti/05. Java Classes.md",
@@ -194,13 +192,6 @@
     "Programmazione a oggetti/Images/La funzione perfetta.png",
     "Programmazione a oggetti/Images/Code dependencies.png",
     "Excalidraw/Drawing 2024-03-20 12.21.29.excalidraw.md",
-    "Sistemi Operativi/Prima Parte/04. Unix pt.2.md",
-    "Sistemi Operativi/Prima Parte/01. Scheduling, gestione RAM.md",
-    "Excalidraw/08-03 Testing.md",
-    "Programmazione a oggetti/01. Introduzione a Java.md",
-    "Sistemi Operativi/06. Piping dei comandi.md",
-    "Programmazione a oggetti/02. Java Arrays.md",
-    "Excalidraw/Drawing 2024-03-12 18.21.05.excalidraw.md",
     "Excalidraw/Images",
     "Excalidraw",
     "Sistemi Operativi/Images",
