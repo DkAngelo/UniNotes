@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#comandi",
+                "query": "unstd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,9 @@
   },
   "active": "feedb1d9680a9326",
   "lastOpenFiles": [
+    "II sem. 2024/Sistemi Operativi/Seconda Parte/11. Esecuzione di un processo.md",
     "II sem. 2024/Sistemi Operativi/Seconda Parte/09. Linguaggio C come linguaggio di sistema.md",
+    "II sem. 2024/Sistemi Operativi/Seconda Parte/10. Modello dei processi Linux.md",
     "II sem. 2024/Sistemi Operativi/Prima Parte/SP. Importanti per l'esame.md",
     "II sem. 2024/Sistemi Operativi/Prima Parte/08. Esecuzione in background.md",
     "II sem. 2024/Sistemi Operativi/Prima Parte/07.5. Conteggio di file.md",
@@ -178,8 +180,6 @@
     "Sistemi Operativi/02. File system.md",
     "Sistemi Operativi/04. Unix pt.2.md",
     "Programmazione a oggetti/04-03 Java Strings.md",
-    "Sistemi Operativi/05. Altri comandi, generalizzazione dei file.md",
-    "Sistemi Operativi/29-02 Unix pt.1.md",
     "Programmazione a oggetti/Images/Pasted image 20240304194604.png",
     "Programmazione a oggetti/Images/Pasted image 20240304194545.png",
     "Programmazione a oggetti/Images/Pasted image 20240303123736.png",
