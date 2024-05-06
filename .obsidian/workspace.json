@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "II sem. 2024/Sistemi Operativi/Prima Parte/07. Linking di file e directory.md",
+                "file": "II sem. 2024/Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ln",
+                "query": "set",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "II sem. 2024/Sistemi Operativi/Prima Parte/07. Linking di file e directory.md",
+                "file": "II sem. 2024/Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "II sem. 2024/Sistemi Operativi/Prima Parte/07. Linking di file e directory.md",
+                "file": "II sem. 2024/Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "II sem. 2024/Sistemi Operativi/Prima Parte/07. Linking di file e directory.md"
+                "file": "II sem. 2024/Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md"
               }
             }
           }
@@ -155,14 +154,16 @@
   },
   "active": "feedb1d9680a9326",
   "lastOpenFiles": [
-    "II sem. 2024/Programmazione a oggetti/01. Introduzione a Java.md",
     "II sem. 2024/Sistemi Operativi/Seconda Parte/10. Modello dei processi Linux.md",
-    "II sem. 2024/Sistemi Operativi/Seconda Parte/11. Esecuzione di un processo.md",
+    "II sem. 2024/Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md",
+    "II sem. 2024/Programmazione a oggetti/07. Collection.md",
     "II sem. 2024/Sistemi Operativi/Seconda Parte/09. Linguaggio C come linguaggio di sistema.md",
+    "II sem. 2024/Sistemi Operativi/Prima Parte/07. Linking di file e directory.md",
+    "II sem. 2024/Programmazione a oggetti/01. Introduzione a Java.md",
+    "II sem. 2024/Sistemi Operativi/Seconda Parte/11. Esecuzione di un processo.md",
     "II sem. 2024/Sistemi Operativi/Prima Parte/SP. Importanti per l'esame.md",
     "II sem. 2024/Sistemi Operativi/Prima Parte/08. Esecuzione in background.md",
     "II sem. 2024/Sistemi Operativi/Prima Parte/07.5. Conteggio di file.md",
-    "II sem. 2024/Sistemi Operativi/Prima Parte/07. Linking di file e directory.md",
     "II sem. 2024/Sistemi Operativi/Prima Parte/06. Programmazione nella Shell.md",
     "II sem. 2024/Sistemi Operativi/Prima Parte/05. Altri comandi, generalizzazione dei file.md",
     "II sem. 2024/Sistemi Operativi/Prima Parte/04. Unix pt.2.md",
@@ -179,8 +180,6 @@
     "II sem. 2024/Programmazione a oggetti/02. Java Arrays.md",
     "II sem. 2024/Programmazione a oggetti/00. Introduzione al corso.md",
     "Sistemi Operativi/02. File system.md",
-    "Sistemi Operativi/04. Unix pt.2.md",
-    "Programmazione a oggetti/04-03 Java Strings.md",
     "Programmazione a oggetti/Images/Pasted image 20240304194604.png",
     "Programmazione a oggetti/Images/Pasted image 20240304194545.png",
     "Programmazione a oggetti/Images/Pasted image 20240303123736.png",
