@@ -1,0 +1,44 @@
+## Ottenimento di N pipe, con N non noto staticamente (cambia durante l'esecuzione)
+1) Definizione di un array dinamico
+```
+/* definizione del TIPO pipe_t come array di 2 interi */
+piped typedef int pipe_t[2]; 
+...
+/* array dinamico di pipe descriptors per comunicazioni figli-padre */
+pipe_t *piped;  
+```
+
+2) Allocazione di un array dinamico "piped" di dimensione N (sempre da controllare)
+```
+/* Allocazione dell'array di N pipe descriptors */ 
+piped = (pipe_t *) malloc (N*sizeof(pipe_t));
+if (piped == NULL) 
+{ 
+	printf("Errore nella allocazione della memoria\n"); 
+	exit(3);
+}
+```
+
+3) Creazione delle N pipe per la comunicazione figli-padre
+```
+/* Creazione delle N pipe figli-padre */
+for (j=0; j < N; j++) { 
+	if(pipe(piped[j]) < 0) { 
+		printf("Errore nella creazione della pipe\n");
+		exit(); 
+	} 
+}
+```
+
+4) Chiusura pipe non utilizzate
+```
+/* Chiusura delle pipe non usate nella comunicazione con il padre */ 
+for (k=0; k < N; k++) { 
+	close(piped[k][0]); 
+	if (k != i) 
+		close(piped[k][1]); 
+} 
+
+/* padre chiude tutte le pipe che non usa */ 
+for (k=0; k < N; k++) { close(piped[k][1]);}
+```
