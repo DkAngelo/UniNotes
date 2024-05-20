@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/Seconda Parte/10. Modello dei processi Linux.md",
+                "file": "Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "errno",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi Operativi/Seconda Parte/10. Modello dei processi Linux.md",
+                "file": "Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemi Operativi/Seconda Parte/10. Modello dei processi Linux.md",
+                "file": "Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemi Operativi/Seconda Parte/10. Modello dei processi Linux.md"
+                "file": "Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md"
               }
             }
           }
@@ -154,7 +154,20 @@
   },
   "active": "55cc798fee66b66a",
   "lastOpenFiles": [
+    "Sistemi Operativi/Seconda Parte/10. Modello dei processi Linux.md",
     "Sistemi Operativi/Seconda Parte/09. Linguaggio C come linguaggio di sistema.md",
+    "Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md",
+    "Sistemi Operativi/Seconda Parte/SP.1 Note importanti.md",
+    "Programmazione a oggetti/09. Database.md",
+    "Programmazione a oggetti/08. Interfaccia grafica.md",
+    "Programmazione a oggetti/07. Collection.md",
+    "Programmazione a oggetti/06. Interfacce e classi astratte.md",
+    "Programmazione a oggetti/05. Ereditarietà.md",
+    "Programmazione a oggetti/04. Java Classes.md",
+    "Programmazione a oggetti/03. Java Strings.md",
+    "Programmazione a oggetti/02. Java Arrays.md",
+    "Programmazione a oggetti/01. Introduzione a Java.md",
+    "Programmazione a oggetti/00. Introduzione al corso.md",
     "Sistemi Operativi/Prima Parte/SP. Importanti per l'esame.md",
     "Sistemi Operativi/Prima Parte/08. Esecuzione in background.md",
     "Sistemi Operativi/Prima Parte/07.5. Conteggio di file.md",
@@ -165,21 +178,8 @@
     "Sistemi Operativi/Prima Parte/03. Unix pt.1.md",
     "Sistemi Operativi/Prima Parte/02. File system.md",
     "Sistemi Operativi/Prima Parte/01. Scheduling, gestione RAM.md",
-    "Sistemi Operativi/Seconda Parte/10. Modello dei processi Linux.md",
     "Sistemi Operativi/Seconda Parte/11. Esecuzione di un processo.md",
-    "Programmazione a oggetti/09. Database.md",
-    "Programmazione a oggetti/08. Interfaccia grafica.md",
-    "Programmazione a oggetti/07. Collection.md",
-    "Programmazione a oggetti/06. Interfacce e classi astratte.md",
     "Programmazione a oggetti/08. Collection.md",
-    "Programmazione a oggetti/07. Interfacce e classi astratte.md",
-    "Programmazione a oggetti/05. Ereditarietà.md",
-    "Programmazione a oggetti/04. Java Classes.md",
-    "Programmazione a oggetti/03. Java Strings.md",
-    "Programmazione a oggetti/02. Java Arrays.md",
-    "Programmazione a oggetti/01. Introduzione a Java.md",
-    "Programmazione a oggetti/00. Introduzione al corso.md",
-    "Excalidraw/Drawing 2024-04-15 09.43.28.excalidraw.md",
     "Python",
     "Nuova cartella",
     "Pasted image 20240408125710.png",

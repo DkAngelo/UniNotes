@@ -42,3 +42,19 @@ for (k=0; k < N; k++) {
 /* padre chiude tutte le pipe che non usa */ 
 for (k=0; k < N; k++) { close(piped[k][1]);}
 ```
+
+## Comunicazione dal figlio 0 al figlio N-1, che comunica al padre
+Le operazioni di close da fare sono le seguenti:
+- **Figlio 0**: 
+	- Chiude tutte le estremità di lettura (`pipefd[j][0]` per ogni `j`).
+	- Chiude tutte le estremità di scrittura non necessarie (`pipefd[j][1]` per ogni `j` tranne `pipefd[0][1]`).
+	- Scrive alla pipe `pipefd[0][1]` 
+- **Figli i**:
+	- Chiudono tutte le estremità di lettura non necessarie (`pipefd[j][0]` per ogni `j` tranne `pipefd[i-1][0]`).
+	- Chiudono tutte le estremità di scrittura non necessarie (`pipefd[j][1]` per ogni `j` tranne `pipefd[i][1]`).
+	- Leggono dalla pipe `pipefd[i-1][0]`
+	- Scrivono alla pipe `pipefd[i][1]`
+- **Padre**:
+	- Chiude tutte le estremità di scrittura (`pipefd[i][1]`) delle pipe.
+	- Chiude tutte le estremità di lettura (`pipefd[i][0]`) tranne l'ultima (`pipefd[NUM_CHILDREN-1][0]`).
+	- Legge dall'ultima pipe (`pipefd[NUM_CHILDREN-1][0]`) 
