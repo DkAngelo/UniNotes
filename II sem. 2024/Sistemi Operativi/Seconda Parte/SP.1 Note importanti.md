@@ -58,3 +58,7 @@ Le operazioni di close da fare sono le seguenti:
 	- Chiude tutte le estremità di scrittura (`pipefd[i][1]`) delle pipe.
 	- Chiude tutte le estremità di lettura (`pipefd[i][0]`) tranne l'ultima (`pipefd[NUM_CHILDREN-1][0]`).
 	- Legge dall'ultima pipe (`pipefd[NUM_CHILDREN-1][0]`) 
+
+## Se nell'argc c'è un carattere:
+- Controllo che `strlen(argc[1]) == 1`
+- Isolo il carattere come `char Cz = argv[1][0]`
