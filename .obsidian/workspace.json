@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "II sem. 2024/Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md",
+                "file": "II sem. 2024/Sistemi Operativi/Seconda Parte/Possibili schemi di comunicazone.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "II sem. 2024/Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md",
+                "file": "II sem. 2024/Sistemi Operativi/Seconda Parte/Possibili schemi di comunicazone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "II sem. 2024/Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md",
+                "file": "II sem. 2024/Sistemi Operativi/Seconda Parte/Possibili schemi di comunicazone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "II sem. 2024/Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md"
+                "file": "II sem. 2024/Sistemi Operativi/Seconda Parte/Possibili schemi di comunicazone.md"
               }
             }
           }
@@ -154,10 +154,11 @@
   },
   "active": "feedb1d9680a9326",
   "lastOpenFiles": [
+    "II sem. 2024/Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md",
+    "II sem. 2024/Sistemi Operativi/Seconda Parte/Possibili schemi di comunicazone.md",
     "II sem. 2024/Sistemi Operativi/Prima Parte/06. Programmazione nella Shell.md",
     "II sem. 2024/Sistemi Operativi/Prima Parte/05. Altri comandi, generalizzazione dei file.md",
     "II sem. 2024/Sistemi Operativi/Seconda Parte/09. Linguaggio C come linguaggio di sistema.md",
-    "II sem. 2024/Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md",
     "II sem. 2024/Sistemi Operativi/Seconda Parte/10. Modello dei processi Linux.md",
     "II sem. 2024/Sistemi Operativi/Seconda Parte/SP.1 Note importanti.md",
     "II sem. 2024/Programmazione a oggetti/11. Exceptions.md",
@@ -179,7 +180,6 @@
     "II sem. 2024/Programmazione a oggetti/10. Database.md",
     "II sem. 2024/Programmazione a oggetti/09. Interfaccia grafica.md",
     "II sem. 2024/Programmazione a oggetti/08. Collection.md",
-    "II sem. 2024/Programmazione a oggetti/07. Interfacce e classi astratte.md",
     "Programmazione a oggetti/Images/Pasted image 20240304194604.png",
     "Programmazione a oggetti/Images/Pasted image 20240304194545.png",
     "Programmazione a oggetti/Images/Pasted image 20240303123736.png",
