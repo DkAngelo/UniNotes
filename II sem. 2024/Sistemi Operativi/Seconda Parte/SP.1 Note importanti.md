@@ -14,7 +14,7 @@ pipe_t *piped;
 piped = (pipe_t *) malloc (N*sizeof(pipe_t));
 if (piped == NULL) 
 { 
-	printf("Errore nella allocazione della memoria\n"); 
+	printf("Errore nell'allocazione della memoria\n"); 
 	exit(3);
 }
 ```
@@ -62,3 +62,99 @@ Le operazioni di close da fare sono le seguenti:
 ## Se nell'argc c'è un carattere:
 - Controllo che `strlen(argc[1]) == 1`
 - Isolo il carattere come `char Cz = argv[1][0]`
+
+## Comunicazione ring:
+- con padre: bisogna allocare memoria per N+1 pipe
+```
+/* allochiamo memoria per il ring di pipe */
+if ((pipes = (pipe_t *)malloc((Q + 1) * sizeof(pipe_t))) == NULL)
+{
+	printf("ERRORE - Allocazione di memoria non riuscita\n");
+	exit(4);
+}
+/* creiamo le pipe */
+for (i = 0; i <= Q; i++)
+{
+	if (pipe(pipes[i]) < 0)
+	{
+		printf("ERRORE - Pipe non generata\n");
+		exit(5);
+	}
+}
+...
+
+/* ogni figlio legge da q e scrive su q+1 */
+for (i = 0; i <= Q; i++)
+{
+	if ((i != q))
+	{
+	close(pipes[i][0]);
+	}
+	if (i != (q + 1))
+	{
+		close(pipes[i][1]);
+	}
+}
+...
+
+/* codice padre */
+/* chiusura delle pipe non utilizzate */
+for (i = 0; i <= Q; i++)
+{
+	if (i != Q)
+	{
+	close(pipes[i][0]);
+	}
+	if (i != 0)
+	{
+		close(pipes[i][1]);
+	}
+}
+```
+
+- senza padre
+```
+/* allocazione pipe */
+if ((pipes=(pipe_t *)malloc(Q*sizeof(pipe_t))) == NULL)
+{
+	printf("Errore allocazione pipe\n");
+	exit(2); 
+}
+/* creazione pipe */
+for (q=0;q<Q;q++)
+if(pipe(pipes[q])<0)
+{
+	printf("Errore creazione pipe\n");
+	exit(3);
+}
+...
+/*ogni processo figlio legge dalla pipe q e scrive sulla pipe (q+1)%Q */
+for (j=0;j<Q;j++)
+{
+	if (j!=q)
+		close (pipes[j][0]);
+	if (j != (q+1)%Q)
+		close (pipes[j][1]);
+}
+...
+
+/*codice padre*/
+/* chiusura di tutte le pipe che non usa, a parte la prima perche' il padre deve dare il primo OK al primo figlio. 
+N.B. Si lascia aperto sia il lato di scrittura che viene usato (e poi in effetti chiuso) che il lato di lettura (che non verra' usato ma serve perche' non venga inviato il segnale SIGPIPE all'ultimo figlio che terminerebbe in modo anomalo)  */
+for(q=1;q<Q;q++) 
+{
+	close (pipes[q][0]);
+	close (pipes[q][1]); 
+}
+/* ora si deve mandare l'OK al primo figlio (P0): nota che il valore della variabile ok non ha importanza */
+nw=write(pipes[0][1],&ok,sizeof(char));
+/* anche in questo caso controlliamo il risultato della scrittura */
+if (nw != sizeof(char))
+{
+	printf("Padre ha scritto un numero di byte sbagliati %d\n", nw);
+    exit(5);
+}
+
+/* ora possiamo chiudere anche il lato di scrittura, ma ATTENZIONE NON QUELLO DI LETTURA! */
+close(pipes[0][1]);
+```

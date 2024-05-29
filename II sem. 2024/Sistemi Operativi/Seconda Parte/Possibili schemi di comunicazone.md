@@ -22,6 +22,5 @@ Le interazioni tra processi dipendono da tre elementi principiali:
 - 12 Febbraio 2016: A2a B2 C2
 - 12 Luglio 2017: A3 B3, A1 B3 C3
 - 11 Luglio 2018: A1 B3 C2, A1 B3
-- 17 Febbraio 2021: A6a B3 C1
-- 19 Gennaio 2022:
+- 17 Febbraio 2021: A6 non compreso B3 C1
 - 8 Giugno 2016: A1 B2 C1, A1 B2
