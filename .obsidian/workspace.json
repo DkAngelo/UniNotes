@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7620f075a0352426",
+            "id": "be31d88d24220b72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I sem. 2025/01. Storia della telecomunicazione.md",
+                "file": "I sem. 2025/Ingegneria del software/04. UML.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I sem. 2025/01. Storia della telecomunicazione.md",
+                "file": "I sem. 2025/Ingegneria del software/04. UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "I sem. 2025/01. Storia della telecomunicazione.md",
+                "file": "I sem. 2025/Ingegneria del software/04. UML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "I sem. 2025/01. Storia della telecomunicazione.md"
+                "file": "I sem. 2025/Ingegneria del software/04. UML.md"
               }
             }
           }
@@ -153,32 +153,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7620f075a0352426",
+  "active": "be31d88d24220b72",
   "lastOpenFiles": [
-    "I sem. 2025/Architetture dei calcolatori/01. Introduzione.md",
-    "I sem. 2025/Architetture dei calcolatori/02. Anatomia di un calcolatore.md",
-    "02. Anatomia di un calcolatore.pdf",
-    "01. Introduzione.pdf",
-    "I sem. 2025/Tecnologie Web/02. Il protocollo HTTP.md",
+    "Pasted image 20240920104335.png",
+    "Pasted image 20240920104328.png",
+    "Pasted image 20240920103508.png",
+    "I sem. 2025/Ingegneria del software/Images/Drawing 2024-09-20 10.18.05.excalidraw.md",
+    "I sem. 2025/Ingegneria del software/04. UML.md",
+    "I sem. 2025/Ingegneria del software/Images/Pasted image 20240920100515.png",
+    "I sem. 2025/Ingegneria del software/Images/Pasted image 20240920100003.png",
+    "I sem. 2025/Ingegneria del software/Images/Drawing 2024-09-20 09.55.51.excalidraw.md",
+    "I sem. 2025/Ingegneria del software/Images",
+    "I sem. 2025/Ingegneria del software/Images/Pasted image 20240920093519.png",
+    "I sem. 2025/Ingegneria del software/03. Ingegneria del software.md",
+    "I sem. 2025/Fondamenti di telecomunicazioni/01. Storia della telecomunicazione.md",
+    "I sem. 2025/Fondamenti di telecomunicazioni",
     "I sem. 2025/Tecnologie Web/03. Protocollo TCP-IP.md",
+    "I sem. 2025/Tecnologie Web/02. Il protocollo HTTP.md",
+    "I sem. 2025/Tecnologie Web/01. Il web.md",
     "I sem. 2025/Ingegneria del software/01. Scrivere un programma.md",
     "I sem. 2025/Ingegneria del software/00. Fasi di produzione di un software.md",
-    "I sem. 2025/01. Storia della telecomunicazione.md",
+    "I sem. 2025/Ingegneria del software/02. Costruire un sistema.md",
+    "I sem. 2025/Architetture dei calcolatori/02. Anatomia di un calcolatore.md",
+    "I sem. 2025/Architetture dei calcolatori/01. Introduzione.md",
+    "I sem. 2025/Architetture dei calcolatori/Ese/01. Ese - 19.09.2024.md",
+    "I sem. 2025/Architetture dei calcolatori/Ese",
+    "I sem. 2025/Architetture dei calcolatori/Images/Pasted image 20240919171016.png",
+    "I sem. 2025/Architetture dei calcolatori/Images/Drawing 2024-09-19 16.56.31.excalidraw.md",
+    "I sem. 2025/02. Tecniche digitali.md",
+    "02. Anatomia di un calcolatore.pdf",
+    "01. Introduzione.pdf",
     "I sem. 2025/Ingegneria del software",
     "I sem. 2025/Architetture dei calcolatori/Drawing 2024-09-16 18.58.54.excalidraw.md",
     "I sem. 2025/Architetture dei calcolatori/Images/{0A47B9F4-4FE5-4219-83AB-13E427E1D54B}.png",
     "I sem. 2025/Architetture dei calcolatori/Images/{3EA7BE11-662E-468D-BEC2-F37861718C65}.png",
     "I sem. 2025/Architetture dei calcolatori/Images/{30B593BF-8357-4A27-A2E3-EAD426B05C4B}.png",
     "I sem. 2025/Architetture dei calcolatori/Images/{BD8E29C0-9E45-4775-BE4C-35A0A0CE5FD2}.png",
-    "I sem. 2025/Architetture dei calcolatori/Images/{783A0CD4-A4BE-492F-AE61-E9FB33BB0372}.png",
-    "I sem. 2025/Architetture dei calcolatori/Images/Pasted image 20240916164400.png",
-    "I sem. 2025/Architetture dei calcolatori/Images/Pasted image 20240916164117.png",
-    "I sem. 2025/Architetture dei calcolatori/Images/{1476D674-257E-4318-A0FB-7A584E6FA04A}.png",
-    "I sem. 2025/Architetture dei calcolatori/Images/Pasted image 20240916163543.png",
     "I sem. 2025/Architetture dei calcolatori/Images/Drawing 2024-09-16 16.21.53.excalidraw.md",
-    "I sem. 2025/Architetture dei calcolatori/Images/{5E5CA980-1543-4B56-A709-CD24BD72357E}.png",
     "I sem. 2025/Architetture dei calcolatori/Images",
-    "I sem. 2025/Tecnologie Web/01. Il web.md",
     "I sem. 2025/Architetture dei calcolatori",
     "I sem. 2025/Tecnologie Web",
     "II sem. 2024/Sistemi Operativi/Prima Parte/01. Scheduling, gestione RAM.md",
@@ -189,17 +201,6 @@
     "II sem. 2024/Sistemi Operativi/Prima Parte/06. Programmazione nella Shell.md",
     "II sem. 2024/Sistemi Operativi/Prima Parte/05. Altri comandi, generalizzazione dei file.md",
     "II sem. 2024/Sistemi Operativi/Seconda Parte/09. Linguaggio C come linguaggio di sistema.md",
-    "II sem. 2024/Sistemi Operativi/Seconda Parte/10. Modello dei processi Linux.md",
-    "II sem. 2024/Programmazione a oggetti/11. Exceptions.md",
-    "II sem. 2024/Programmazione a oggetti/12. Threads.md",
-    "II sem. 2024/Programmazione a oggetti/10. Generics.md",
-    "II sem. 2024/Programmazione a oggetti/09. Database.md",
-    "II sem. 2024/Programmazione a oggetti/08. Interfaccia grafica.md",
-    "II sem. 2024/Programmazione a oggetti/07. Collection.md",
-    "II sem. 2024/Sistemi Operativi/Prima Parte/07. Linking di file e directory.md",
-    "Excalidraw/Images",
-    "Excalidraw",
-    "Sistemi Operativi/Images",
     "Untitled.canvas"
   ]
 }
