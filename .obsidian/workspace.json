@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f5cfa546258bf710",
+        "id": "90c11dbaf83cfe80",
         "type": "tabs",
         "children": [
           {
-            "id": "be31d88d24220b72",
+            "id": "bcce2c7f1990be47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "I sem. 2025/Ingegneria del software/04. UML.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I sem. 2025/Ingegneria del software/04. UML.md",
+                "file": "I sem. 2025/Architetture dei calcolatori/Images/Tabella unità di misura dimensioni.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "I sem. 2025/Ingegneria del software/04. UML.md",
+                "file": "I sem. 2025/Architetture dei calcolatori/Images/Tabella unità di misura dimensioni.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "I sem. 2025/Ingegneria del software/04. UML.md"
+                "file": "I sem. 2025/Architetture dei calcolatori/Images/Tabella unità di misura dimensioni.png"
               }
             }
           }
@@ -153,48 +149,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be31d88d24220b72",
+  "active": "04e73ea2c4df56e9",
   "lastOpenFiles": [
-    "Pasted image 20240920104335.png",
-    "Pasted image 20240920104328.png",
-    "Pasted image 20240920103508.png",
-    "I sem. 2025/Ingegneria del software/Images/Drawing 2024-09-20 10.18.05.excalidraw.md",
-    "I sem. 2025/Ingegneria del software/04. UML.md",
+    "I sem. 2025/Architetture dei calcolatori/Images/Astrazioni software.png",
+    "I sem. 2025/Architetture dei calcolatori/Images/Ascii table.png",
+    "I sem. 2025/Architetture dei calcolatori/Images/Potenze del 2.png",
+    "I sem. 2025/Architetture dei calcolatori/Images/Schema funzionale.png",
+    "I sem. 2025/Architetture dei calcolatori/Images/Astrazioni hardware.png",
+    "I sem. 2025/Architetture dei calcolatori/Images/Esempio RTL.png",
+    "I sem. 2025/Ingegneria del software/Images/Inheritance.png",
+    "I sem. 2025/Ingegneria del software/Images/Esempio di UCD.png",
+    "I sem. 2025/Ingegneria del software/Images/Forma tabellare UCD.png",
     "I sem. 2025/Ingegneria del software/Images/Pasted image 20240920100515.png",
-    "I sem. 2025/Ingegneria del software/Images/Pasted image 20240920100003.png",
+    "I sem. 2025/Ingegneria del software/Images/UML diagram.png",
+    "I sem. 2025/Ingegneria del software/Images/Drawing 2024-09-20 10.18.05.excalidraw.md",
+    "I sem. 2025/Tecnologie Web/02. Il protocollo HTTP.md",
+    "I sem. 2025/Tecnologie Web/Images",
+    "I sem. 2025/Tecnologie Web/03. Protocollo TCP-IP.md",
+    "I sem. 2025/Architetture dei calcolatori/01. Introduzione.md",
+    "I sem. 2025/Architetture dei calcolatori/02. Anatomia di un calcolatore.md",
+    "I sem. 2025/Fondamenti di telecomunicazioni/01. Storia della telecomunicazione.md",
+    "I sem. 2025/Ingegneria del software/04. UML.md",
+    "I sem. 2025/Ingegneria del software/00. Fasi di produzione di un software.md",
+    "I sem. 2025/Ingegneria del software/03. Ingegneria del software.md",
     "I sem. 2025/Ingegneria del software/Images/Drawing 2024-09-20 09.55.51.excalidraw.md",
     "I sem. 2025/Ingegneria del software/Images",
-    "I sem. 2025/Ingegneria del software/Images/Pasted image 20240920093519.png",
-    "I sem. 2025/Ingegneria del software/03. Ingegneria del software.md",
-    "I sem. 2025/Fondamenti di telecomunicazioni/01. Storia della telecomunicazione.md",
     "I sem. 2025/Fondamenti di telecomunicazioni",
-    "I sem. 2025/Tecnologie Web/03. Protocollo TCP-IP.md",
-    "I sem. 2025/Tecnologie Web/02. Il protocollo HTTP.md",
     "I sem. 2025/Tecnologie Web/01. Il web.md",
     "I sem. 2025/Ingegneria del software/01. Scrivere un programma.md",
-    "I sem. 2025/Ingegneria del software/00. Fasi di produzione di un software.md",
     "I sem. 2025/Ingegneria del software/02. Costruire un sistema.md",
-    "I sem. 2025/Architetture dei calcolatori/02. Anatomia di un calcolatore.md",
-    "I sem. 2025/Architetture dei calcolatori/01. Introduzione.md",
     "I sem. 2025/Architetture dei calcolatori/Ese/01. Ese - 19.09.2024.md",
     "I sem. 2025/Architetture dei calcolatori/Ese",
-    "I sem. 2025/Architetture dei calcolatori/Images/Pasted image 20240919171016.png",
     "I sem. 2025/Architetture dei calcolatori/Images/Drawing 2024-09-19 16.56.31.excalidraw.md",
     "I sem. 2025/02. Tecniche digitali.md",
     "02. Anatomia di un calcolatore.pdf",
     "01. Introduzione.pdf",
     "I sem. 2025/Ingegneria del software",
     "I sem. 2025/Architetture dei calcolatori/Drawing 2024-09-16 18.58.54.excalidraw.md",
-    "I sem. 2025/Architetture dei calcolatori/Images/{0A47B9F4-4FE5-4219-83AB-13E427E1D54B}.png",
-    "I sem. 2025/Architetture dei calcolatori/Images/{3EA7BE11-662E-468D-BEC2-F37861718C65}.png",
-    "I sem. 2025/Architetture dei calcolatori/Images/{30B593BF-8357-4A27-A2E3-EAD426B05C4B}.png",
-    "I sem. 2025/Architetture dei calcolatori/Images/{BD8E29C0-9E45-4775-BE4C-35A0A0CE5FD2}.png",
     "I sem. 2025/Architetture dei calcolatori/Images/Drawing 2024-09-16 16.21.53.excalidraw.md",
     "I sem. 2025/Architetture dei calcolatori/Images",
     "I sem. 2025/Architetture dei calcolatori",
     "I sem. 2025/Tecnologie Web",
     "II sem. 2024/Sistemi Operativi/Prima Parte/01. Scheduling, gestione RAM.md",
-    "I sem. 2025",
     "II sem. 2024/Sistemi Operativi/Seconda Parte/Possibili schemi di comunicazone.md",
     "II sem. 2024/Sistemi Operativi/Seconda Parte/SP.1 Note importanti.md",
     "II sem. 2024/Sistemi Operativi/Seconda Parte/11. Interazione tra processi Linux.md",
