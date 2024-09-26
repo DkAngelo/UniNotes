@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I sem. 2025/Ingegneria del software/02. Costruire un sistema.md",
+                "file": "I sem. 2025/Architetture dei calcolatori/04. RISC-V.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I sem. 2025/Ingegneria del software/02. Costruire un sistema.md",
+                "file": "I sem. 2025/Architetture dei calcolatori/04. RISC-V.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "I sem. 2025/Ingegneria del software/02. Costruire un sistema.md",
+                "file": "I sem. 2025/Architetture dei calcolatori/04. RISC-V.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "I sem. 2025/Ingegneria del software/02. Costruire un sistema.md"
+                "file": "I sem. 2025/Architetture dei calcolatori/04. RISC-V.md"
               }
             }
           }
@@ -155,9 +155,14 @@
   },
   "active": "fc699e92da3ddd4e",
   "lastOpenFiles": [
-    "I sem. 2025/Ingegneria del software/05. Ingegneria dei requisiti.md",
-    "I sem. 2025/Ingegneria del software/04. UML.md",
+    "I sem. 2025/Tecnologie Web/Images/Esempio complesso GET.png",
     "I sem. 2025/Ingegneria del software/06. Class diagram.md",
+    "I sem. 2025/Ingegneria del software/05. Ingegneria dei requisiti.md",
+    "I sem. 2025/Architetture dei calcolatori/04. RISC-V.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "I sem. 2025/Ingegneria del software/02. Costruire un sistema.md",
+    "I sem. 2025/Ingegneria del software/04. UML.md",
     "I sem. 2025/Ingegneria del software/03. Ingegneria del software.md",
     "I sem. 2025/Ingegneria del software/03.b.md",
     "I sem. 2025/Architetture dei calcolatori/03. Prestazioni.md",
@@ -182,19 +187,14 @@
     "I sem. 2025/Tecnologie Web/03. Protocollo TCP-IP.md",
     "I sem. 2025/Tecnologie Web/02. Il protocollo HTTP.md",
     "I sem. 2025/Tecnologie Web/01. Il web.md",
-    "Untitled.md",
     "I sem. 2025/Fondamenti di telecomunicazioni/01. Introduzione.md",
     "I sem. 2025/Architetture dei calcolatori/Images/Astrazioni software.png",
     "I sem. 2025/Architetture dei calcolatori/Images/Ascii table.png",
     "I sem. 2025/Architetture dei calcolatori/Images/Potenze del 2.png",
     "I sem. 2025/Ingegneria del software/Images/Drawing 2024-09-20 10.18.05.excalidraw.md",
     "I sem. 2025/Tecnologie Web/Images",
-    "I sem. 2025/Ingegneria del software/00. Fasi di produzione di un software.md",
-    "I sem. 2025/Ingegneria del software/Images/Drawing 2024-09-20 09.55.51.excalidraw.md",
     "I sem. 2025/Ingegneria del software/Images",
     "I sem. 2025/Fondamenti di telecomunicazioni",
-    "I sem. 2025/Ingegneria del software/01. Scrivere un programma.md",
-    "I sem. 2025/Ingegneria del software/02. Costruire un sistema.md",
     "I sem. 2025/Architetture dei calcolatori/Ese",
     "02. Anatomia di un calcolatore.pdf",
     "01. Introduzione.pdf",
