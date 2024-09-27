@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I sem. 2025/Ingegneria del software/07. Design Pattern.md",
+                "file": "Python/01. Introduzione.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I sem. 2025/Ingegneria del software/07. Design Pattern.md",
+                "file": "Python/01. Introduzione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "I sem. 2025/Ingegneria del software/07. Design Pattern.md",
+                "file": "Python/01. Introduzione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "I sem. 2025/Ingegneria del software/07. Design Pattern.md"
+                "file": "Python/01. Introduzione.md"
               }
             }
           }
@@ -155,8 +155,11 @@
   },
   "active": "fc699e92da3ddd4e",
   "lastOpenFiles": [
-    "I sem. 2025/Ingegneria del software/02. Costruire un sistema.md",
+    "Python/02. Controllo del flusso.md",
+    "Python/01. Introduzione.md",
+    "Python/A. Introduzione.md",
     "I sem. 2025/Ingegneria del software/07. Design Pattern.md",
+    "I sem. 2025/Ingegneria del software/02. Costruire un sistema.md",
     "I sem. 2025/Ingegneria del software/06. Class diagram.md",
     "I sem. 2025/Architetture dei calcolatori/04. RISC-V.md",
     "I sem. 2025/Ingegneria del software/05. Ingegneria dei requisiti.md",
@@ -189,9 +192,6 @@
     "I sem. 2025/Fondamenti di telecomunicazioni/00. Storia della telecomunicazione.md",
     "I sem. 2025/Tecnologie Web/03. Protocollo TCP-IP.md",
     "I sem. 2025/Tecnologie Web/02. Il protocollo HTTP.md",
-    "I sem. 2025/Tecnologie Web/01. Il web.md",
-    "I sem. 2025/Fondamenti di telecomunicazioni/01. Introduzione.md",
-    "I sem. 2025/Ingegneria del software/Images/Drawing 2024-09-20 10.18.05.excalidraw.md",
     "I sem. 2025/Tecnologie Web/Images",
     "I sem. 2025/Ingegneria del software/Images",
     "I sem. 2025/Fondamenti di telecomunicazioni",
