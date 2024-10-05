@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3a36448b3208b144",
+        "id": "cd15de257679c4e3",
         "type": "tabs",
         "children": [
           {
-            "id": "fc699e92da3ddd4e",
+            "id": "b06765858873c9f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/01. Introduzione.md",
+                "file": "I sem. 2025/Ingegneria del software/08. Design del software.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/01. Introduzione.md",
+                "file": "I sem. 2025/Ingegneria del software/08. Design del software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/01. Introduzione.md",
+                "file": "I sem. 2025/Ingegneria del software/08. Design del software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/01. Introduzione.md"
+                "file": "I sem. 2025/Ingegneria del software/08. Design del software.md"
               }
             }
           }
@@ -153,45 +153,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc699e92da3ddd4e",
+  "active": "b06765858873c9f1",
   "lastOpenFiles": [
-    "Python/02. Controllo del flusso.md",
-    "Python/01. Introduzione.md",
-    "Python/A. Introduzione.md",
-    "I sem. 2025/Ingegneria del software/07. Design Pattern.md",
-    "I sem. 2025/Ingegneria del software/02. Costruire un sistema.md",
-    "I sem. 2025/Ingegneria del software/06. Class diagram.md",
-    "I sem. 2025/Architetture dei calcolatori/04. RISC-V.md",
-    "I sem. 2025/Ingegneria del software/05. Ingegneria dei requisiti.md",
-    "I sem. 2025/Ingegneria del software/Images/Analisi analitica delle gerarchie.png",
-    "I sem. 2025/Ingegneria del software/Images/Analisi analitica delle gerarchie 2.png",
-    "I sem. 2025/Ingegneria del software/04. UML.md",
-    "I sem. 2025/Ingegneria del software/Images/Class diagram.png",
-    "I sem. 2025/Tecnologie Web/Images/Esempio complesso GET.png",
-    "Untitled.md",
-    "Untitled 1.md",
-    "I sem. 2025/Ingegneria del software/03. Ingegneria del software.md",
-    "I sem. 2025/Ingegneria del software/03.b.md",
-    "I sem. 2025/Architetture dei calcolatori/03. Prestazioni.md",
-    "I sem. 2025/Architetture dei calcolatori/02. Anatomia di un calcolatore.md",
-    "I sem. 2025/Tecnologie Web/05. HTML - Hypertext Markup Language.md",
+    "Python/Esercizi.md",
     "I sem. 2025/Tecnologie Web/Esercizio.md",
-    "I sem. 2025/Tecnologie Web/Images/Storia HTML.png",
+    "I sem. 2025/Tecnologie Web/06. CSS.md",
+    "I sem. 2025/Tecnologie Web/05. HTML - Hypertext Markup Language.md",
     "I sem. 2025/Tecnologie Web/04. URI - Uniform Resource Identifier.md",
-    "I sem. 2025/Ingegneria del software/Ese/User Case Diagrams.md",
-    "I sem. 2025/Ingegneria del software/Images/Pasted image 20240925105850.png",
-    "I sem. 2025/Ingegneria del software/Ese/Drawing 2024-09-25 10.36.37.excalidraw.md",
-    "I sem. 2025/Ingegneria del software/Ese",
-    "I sem. 2025/Architetture dei calcolatori/Images/Architettura con bus di controllo.png",
-    "I sem. 2025/Architetture dei calcolatori/Images/Architettura senza bus di controllo.png",
-    "Pasted image 20240924190704.png",
-    "Pasted image 20240924190808.png",
-    "README.md",
-    "I sem. 2025/Architetture dei calcolatori/01. Introduzione.md",
-    "I sem. 2025/Architetture dei calcolatori/Ese/01. Ese - 19.09.2024.md",
-    "I sem. 2025/Fondamenti di telecomunicazioni/00. Storia della telecomunicazione.md",
     "I sem. 2025/Tecnologie Web/03. Protocollo TCP-IP.md",
     "I sem. 2025/Tecnologie Web/02. Il protocollo HTTP.md",
+    "I sem. 2025/Tecnologie Web/01. Il web.md",
+    "I sem. 2025/Ingegneria del software/08. Design del software.md",
+    "I sem. 2025/Ingegneria del software/07. Design Pattern.md",
+    "I sem. 2025/Ingegneria del software/06. Class diagram.md",
+    "I sem. 2025/Ingegneria del software/05. Ingegneria dei requisiti.md",
+    "I sem. 2025/Ingegneria del software/04. UML.md",
+    "I sem. 2025/Ingegneria del software/03. Ingegneria del software.md",
+    "I sem. 2025/Ingegneria del software/02. Costruire un sistema.md",
+    "I sem. 2025/Ingegneria del software/01. Scrivere un programma.md",
+    "I sem. 2025/Ingegneria del software/00. Fasi di produzione di un software.md",
+    "I sem. 2025/Ingegneria del software/Images/Drawing 2024-10-04 10.28.42.excalidraw.md",
+    "I sem. 2025/Ingegneria del software/Images/UML.png",
+    "I sem. 2025/Ingegneria del software/Images/Strategy.png",
+    "I sem. 2025/Ingegneria del software/Images/Observer.png",
+    "I sem. 2025/Ingegneria del software/Images/Decorator.png",
+    "I sem. 2025/Ingegneria del software/Images/Drawing 2024-10-04 08.36.34.excalidraw.md",
+    "I sem. 2025/Ingegneria del software/Ese/Drawing 2024-10-03 15.44.00.excalidraw.md",
+    "I sem. 2025/Architetture dei calcolatori/05. Microarchitettura e Reti Logiche.md",
+    "I sem. 2025/Architetture dei calcolatori/04. RISC-V.md",
+    "I sem. 2025/Architetture dei calcolatori/03. Prestazioni.md",
+    "I sem. 2025/Ingegneria del software/Images/UML_2.png",
+    "I sem. 2025/Architetture dei calcolatori/02. Anatomia di un calcolatore.md",
+    "I sem. 2025/Ingegneria del software/Ese/Drawing 2024-10-02 11.35.16.excalidraw.md",
+    "I sem. 2025/Ingegneria del software/Ese/User Case Diagrams.md",
+    "I sem. 2025/Ingegneria del software/Images/Analisi analitica delle gerarchie.png",
+    "I sem. 2025/Ingegneria del software/Images/Analisi analitica delle gerarchie 2.png",
+    "I sem. 2025/Ingegneria del software/Images/Class diagram.png",
+    "I sem. 2025/Tecnologie Web/Images/Esempio complesso GET.png",
+    "I sem. 2025/Tecnologie Web/Images/Storia HTML.png",
+    "I sem. 2025/Ingegneria del software/Ese",
     "I sem. 2025/Tecnologie Web/Images",
     "I sem. 2025/Ingegneria del software/Images",
     "I sem. 2025/Fondamenti di telecomunicazioni",
