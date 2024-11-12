@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cd15de257679c4e3",
+        "id": "9849e20218ba7480",
         "type": "tabs",
         "children": [
           {
-            "id": "b06765858873c9f1",
+            "id": "33ebd40c787c4cbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "I sem. 2025/Ingegneria del software/08. Design del software.md",
+                "file": "I sem. 2025/Tecnologie Web/03. Protocollo TCP-IP.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "03. Protocollo TCP-IP"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I sem. 2025/Ingegneria del software/08. Design del software.md",
+                "file": "I sem. 2025/Tecnologie Web/08. JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 08. JavaScript"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "I sem. 2025/Ingegneria del software/08. Design del software.md",
+                "file": "I sem. 2025/Tecnologie Web/08. JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 08. JavaScript"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "I sem. 2025/Ingegneria del software/08. Design del software.md"
-              }
+                "file": "I sem. 2025/Tecnologie Web/08. JavaScript.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 08. JavaScript"
             }
           }
         ]
@@ -153,54 +169,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b06765858873c9f1",
+  "active": "33ebd40c787c4cbc",
   "lastOpenFiles": [
-    "Python/Esercizi.md",
-    "I sem. 2025/Tecnologie Web/Esercizio.md",
-    "I sem. 2025/Tecnologie Web/06. CSS.md",
-    "I sem. 2025/Tecnologie Web/05. HTML - Hypertext Markup Language.md",
-    "I sem. 2025/Tecnologie Web/04. URI - Uniform Resource Identifier.md",
-    "I sem. 2025/Tecnologie Web/03. Protocollo TCP-IP.md",
     "I sem. 2025/Tecnologie Web/02. Il protocollo HTTP.md",
     "I sem. 2025/Tecnologie Web/01. Il web.md",
-    "I sem. 2025/Ingegneria del software/08. Design del software.md",
-    "I sem. 2025/Ingegneria del software/07. Design Pattern.md",
-    "I sem. 2025/Ingegneria del software/06. Class diagram.md",
-    "I sem. 2025/Ingegneria del software/05. Ingegneria dei requisiti.md",
-    "I sem. 2025/Ingegneria del software/04. UML.md",
-    "I sem. 2025/Ingegneria del software/03. Ingegneria del software.md",
-    "I sem. 2025/Ingegneria del software/02. Costruire un sistema.md",
-    "I sem. 2025/Ingegneria del software/01. Scrivere un programma.md",
-    "I sem. 2025/Ingegneria del software/00. Fasi di produzione di un software.md",
-    "I sem. 2025/Ingegneria del software/Images/Drawing 2024-10-04 10.28.42.excalidraw.md",
-    "I sem. 2025/Ingegneria del software/Images/UML.png",
-    "I sem. 2025/Ingegneria del software/Images/Strategy.png",
-    "I sem. 2025/Ingegneria del software/Images/Observer.png",
-    "I sem. 2025/Ingegneria del software/Images/Decorator.png",
-    "I sem. 2025/Ingegneria del software/Images/Drawing 2024-10-04 08.36.34.excalidraw.md",
-    "I sem. 2025/Ingegneria del software/Ese/Drawing 2024-10-03 15.44.00.excalidraw.md",
-    "I sem. 2025/Architetture dei calcolatori/05. Microarchitettura e Reti Logiche.md",
-    "I sem. 2025/Architetture dei calcolatori/04. RISC-V.md",
-    "I sem. 2025/Architetture dei calcolatori/03. Prestazioni.md",
-    "I sem. 2025/Ingegneria del software/Images/UML_2.png",
-    "I sem. 2025/Architetture dei calcolatori/02. Anatomia di un calcolatore.md",
-    "I sem. 2025/Ingegneria del software/Ese/Drawing 2024-10-02 11.35.16.excalidraw.md",
+    "I sem. 2025/Tecnologie Web/07. Web statico e dinamico.md",
+    "I sem. 2025/Tecnologie Web/06. CSS.md",
+    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109133648 1.png",
+    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109133505 1.png",
+    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109133037 1.png",
+    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109132248 1.png",
+    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109132237 1.png",
+    "I sem. 2025/Tecnologie Web/Esercizio.md",
+    "I sem. 2025/Tecnologie Web/09. Ajax.md",
+    "I sem. 2025/Tecnologie Web/08. JavaScript.md",
+    "I sem. 2025/Ingegneria del software/10. Architettura del software.md",
+    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109133648.png",
+    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109133505.png",
+    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109133037.png",
+    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109132248.png",
+    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109132237.png",
+    "I sem. 2025/Ingegneria del software/Ese/Ese-31-10.md",
+    "I sem. 2025/Ingegneria del software/Ese/UCD-1.md",
     "I sem. 2025/Ingegneria del software/Ese/User Case Diagrams.md",
-    "I sem. 2025/Ingegneria del software/Images/Analisi analitica delle gerarchie.png",
-    "I sem. 2025/Ingegneria del software/Images/Analisi analitica delle gerarchie 2.png",
-    "I sem. 2025/Ingegneria del software/Images/Class diagram.png",
-    "I sem. 2025/Tecnologie Web/Images/Esempio complesso GET.png",
-    "I sem. 2025/Tecnologie Web/Images/Storia HTML.png",
+    "I sem. 2025/Ingegneria del software/04. UML.md",
+    "I sem. 2025/Ingegneria del software/Ese/Drawing 2024-10-03 15.44.00.excalidraw.md",
+    "I sem. 2025/Ingegneria del software/Ese/Drawing 2024-10-02 11.35.16.excalidraw.md",
+    "Untitled.md",
+    "I sem. 2025/Architetture dei calcolatori/04. RISC-V.md",
+    "I sem. 2025/Architetture dei calcolatori/05. Microarchitettura e Reti Logiche.md",
+    "I sem. 2025/Architetture dei calcolatori/Ese/24-10-2024/Es1.s",
+    "I sem. 2025/Architetture dei calcolatori/Ese/24-10-2024",
+    "I sem. 2025/Architetture dei calcolatori/Ese/21-10-2024/Es1.s",
+    "I sem. 2025/Architetture dei calcolatori/Ese/21-10-2024/Es3.s",
+    "I sem. 2025/Architetture dei calcolatori/Ese/21-10-2024/Es2.s",
+    "I sem. 2025/Architetture dei calcolatori/Ese/21-10-2024",
+    "README.md",
+    "I sem. 2025/Ingegneria del software/09. Sequence Diagram.md",
+    "I sem. 2025/Ingegneria del software/06. Class diagram.md",
+    "I sem. 2025/Ingegneria del software/07. Design Pattern.md",
+    "I sem. 2025/Ingegneria del software/08. Design del software.md",
+    "I sem. 2025/Ingegneria del software/07. Design Patterns",
+    "Untitled",
+    "I sem. 2025/Architetture dei calcolatori/Ese/02. Esercizi sul RISC-V.md",
+    "Python/Esercizi.md",
+    "I sem. 2025/Tecnologie Web/05. HTML - Hypertext Markup Language.md",
+    "I sem. 2025/Tecnologie Web/04. URI - Uniform Resource Identifier.md",
     "I sem. 2025/Ingegneria del software/Ese",
     "I sem. 2025/Tecnologie Web/Images",
-    "I sem. 2025/Ingegneria del software/Images",
-    "I sem. 2025/Fondamenti di telecomunicazioni",
-    "I sem. 2025/Architetture dei calcolatori/Ese",
-    "02. Anatomia di un calcolatore.pdf",
-    "01. Introduzione.pdf",
-    "I sem. 2025/Ingegneria del software",
-    "I sem. 2025/Architetture dei calcolatori/Images",
-    "I sem. 2025/Architetture dei calcolatori",
     "Untitled.canvas"
   ]
 }
