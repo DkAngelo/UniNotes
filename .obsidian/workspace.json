@@ -1,24 +1,22 @@
 {
   "main": {
-    "id": "71c8db9a0bfb2e33",
+    "id": "5dbd5f5f6d735750",
     "type": "split",
     "children": [
       {
-        "id": "9849e20218ba7480",
+        "id": "87f2802f2b25aa5d",
         "type": "tabs",
         "children": [
           {
-            "id": "33ebd40c787c4cbc",
+            "id": "d8b0648dec3a784d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "I sem. 2025/Tecnologie Web/03. Protocollo TCP-IP.md",
-                "mode": "source",
-                "source": false
+                "file": "II sem. 2025/Reti/Images/Pasted image 20250604132210.png"
               },
-              "icon": "lucide-file",
-              "title": "03. Protocollo TCP-IP"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250604132210"
             }
           }
         ]
@@ -27,27 +25,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c04329b41f14b3ff",
+    "id": "ed02ae5d8e27ad98",
     "type": "split",
     "children": [
       {
-        "id": "7c05b5336526ca49",
+        "id": "9df8a400dcd304ce",
         "type": "tabs",
         "children": [
           {
-            "id": "04e73ea2c4df56e9",
+            "id": "391b60c286a49779",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "89a36431c4fa6942",
+            "id": "414b19e6b17781a8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +63,7 @@
             }
           },
           {
-            "id": "4c66043908330ef2",
+            "id": "ca5aa0ffa5080ef6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,23 +76,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "3a9828608605a727",
+    "id": "af3dd904f9b5b60a",
     "type": "split",
     "children": [
       {
-        "id": "9b9bb486a7c9ca73",
+        "id": "14d343f4302baafe",
         "type": "tabs",
         "children": [
           {
-            "id": "1f077deffc8d5d54",
+            "id": "51ac1ca0acd93c65",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "I sem. 2025/Tecnologie Web/08. JavaScript.md",
+                "file": "II sem. 2025/Reti/Files/I-Firewall1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,46 +102,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 08. JavaScript"
+              "title": "Backlinks for I-Firewall1"
             }
           },
           {
-            "id": "b99ba6e8f3b9d35d",
+            "id": "b5c347053f7e7e01",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "I sem. 2025/Tecnologie Web/08. JavaScript.md",
+                "file": "II sem. 2025/Reti/Files/I-Firewall1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 08. JavaScript"
+              "title": "Outgoing links from I-Firewall1"
             }
           },
           {
-            "id": "e561cad1825f88c8",
+            "id": "40e4ee6bad87e443",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "80ffe7eec448eb1c",
+            "id": "fbf6d9a71a78930b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "I sem. 2025/Tecnologie Web/08. JavaScript.md"
+                "file": "II sem. 2025/Reti/Files/I-Firewall1.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 08. JavaScript"
+              "title": "Outline of I-Firewall1"
             }
           }
         ]
@@ -160,63 +164,53 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "cmdr:Git: Create backup and close": false,
       "cmdr:Git: Commit all changes with specific message": false,
       "cmdr:Git: Push": false,
       "cmdr:Git: Pull": false,
       "cmdr:Git: List changed files": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "33ebd40c787c4cbc",
+  "active": "391b60c286a49779",
   "lastOpenFiles": [
-    "I sem. 2025/Tecnologie Web/02. Il protocollo HTTP.md",
-    "I sem. 2025/Tecnologie Web/01. Il web.md",
-    "I sem. 2025/Tecnologie Web/07. Web statico e dinamico.md",
-    "I sem. 2025/Tecnologie Web/06. CSS.md",
-    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109133648 1.png",
-    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109133505 1.png",
-    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109133037 1.png",
-    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109132248 1.png",
-    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109132237 1.png",
-    "I sem. 2025/Tecnologie Web/Esercizio.md",
-    "I sem. 2025/Tecnologie Web/09. Ajax.md",
-    "I sem. 2025/Tecnologie Web/08. JavaScript.md",
+    "II sem. 2025/Reti/07. Protocolli Applicativi.md",
+    "II sem. 2025/Reti/08. Posta elettronica.md",
+    "II sem. 2025/Reti/10. SNMP e monitoraggio delle reti.md",
+    "II sem. 2025/Reti/Lab01. Marionnet.md",
+    "II sem. 2025/Reti/06. Introduzione ai protocolli di crittografia.md",
+    "II sem. 2025/Reti/05. Elementi di network security.md",
+    "II sem. 2025/Reti/04. Livello di trasporto.md",
+    "II sem. 2025/Reti/03. Livello IP.md",
+    "II sem. 2025/Reti/02. Livello host to network.md",
+    "II sem. 2025/Reti/01. Standard suite.md",
+    "II sem. 2025/Reti/00. Reti e protocolli.md",
+    "II sem. 2025/Reti/Seminario.md",
+    "II sem. 2025/Reti/Images/Pasted image 20250604130457.png",
+    "II sem. 2025/Reti/Images/Pasted image 20250604134054.png",
+    "II sem. 2025/Reti/Images/Pasted image 20250604133925.png",
+    "II sem. 2025/Reti/Images/Pasted image 20250604133614.png",
+    "II sem. 2025/Reti/Images/Pasted image 20250604133204.png",
+    "II sem. 2025/Reti/Images/Pasted image 20250604132210.png",
+    "II sem. 2025/Reti/HTTP.md",
+    "II sem. 2025/Reti/Images/Pasted image 20250604124503.png",
+    "II sem. 2025/Reti/Lab08. IPTables.md",
+    "II sem. 2025/Reti/Lab03. Routing.md",
+    "II sem. 2025/Reti/Lab02. VLAN.md",
+    "II sem. 2025/Reti/Lab04.1 Esercizio DHCP.md",
+    "II sem. 2025/Reti/Lab05. Man in the middle attack.md",
+    "II sem. 2025/Reti/Lab06. Socket Programming and transport level tools.md",
+    "II sem. 2025/Reti/Lab07. Implementation of application services.md",
+    "II sem. 2025/Reti/Images/Pasted image 20250514124506.png",
+    "II sem. 2025/Reti/Images/Pasted image 20250528131730.png",
+    "II sem. 2025/Reti/Images/Pasted image 20250528131146.png",
+    "II sem. 2025/Reti/Lab08.1 Esercizio IPTables.md",
     "I sem. 2025/Ingegneria del software/10. Architettura del software.md",
-    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109133648.png",
-    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109133505.png",
-    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109133037.png",
-    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109132248.png",
-    "I sem. 2025/Ingegneria del software/Images/Pasted image 20241109132237.png",
-    "I sem. 2025/Ingegneria del software/Ese/Ese-31-10.md",
-    "I sem. 2025/Ingegneria del software/Ese/UCD-1.md",
-    "I sem. 2025/Ingegneria del software/Ese/User Case Diagrams.md",
-    "I sem. 2025/Ingegneria del software/04. UML.md",
-    "I sem. 2025/Ingegneria del software/Ese/Drawing 2024-10-03 15.44.00.excalidraw.md",
-    "I sem. 2025/Ingegneria del software/Ese/Drawing 2024-10-02 11.35.16.excalidraw.md",
-    "Untitled.md",
-    "I sem. 2025/Architetture dei calcolatori/04. RISC-V.md",
-    "I sem. 2025/Architetture dei calcolatori/05. Microarchitettura e Reti Logiche.md",
-    "I sem. 2025/Architetture dei calcolatori/Ese/24-10-2024/Es1.s",
-    "I sem. 2025/Architetture dei calcolatori/Ese/24-10-2024",
-    "I sem. 2025/Architetture dei calcolatori/Ese/21-10-2024/Es1.s",
-    "I sem. 2025/Architetture dei calcolatori/Ese/21-10-2024/Es3.s",
-    "I sem. 2025/Architetture dei calcolatori/Ese/21-10-2024/Es2.s",
-    "I sem. 2025/Architetture dei calcolatori/Ese/21-10-2024",
-    "README.md",
     "I sem. 2025/Ingegneria del software/09. Sequence Diagram.md",
-    "I sem. 2025/Ingegneria del software/06. Class diagram.md",
-    "I sem. 2025/Ingegneria del software/07. Design Pattern.md",
     "I sem. 2025/Ingegneria del software/08. Design del software.md",
-    "I sem. 2025/Ingegneria del software/07. Design Patterns",
-    "Untitled",
-    "I sem. 2025/Architetture dei calcolatori/Ese/02. Esercizi sul RISC-V.md",
-    "Python/Esercizi.md",
-    "I sem. 2025/Tecnologie Web/05. HTML - Hypertext Markup Language.md",
-    "I sem. 2025/Tecnologie Web/04. URI - Uniform Resource Identifier.md",
-    "I sem. 2025/Ingegneria del software/Ese",
-    "I sem. 2025/Tecnologie Web/Images",
-    "Untitled.canvas"
+    "I sem. 2025/Ingegneria del software/07. Design Pattern.md",
+    "I sem. 2025/Ingegneria del software/06. Class diagram.md",
+    "II sem. 2025/Reti/Files/I-Firewall1.pdf"
   ]
 }
