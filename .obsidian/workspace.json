@@ -11,12 +11,28 @@
             "id": "d8b0648dec3a784d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "II sem. 2025/Reti/Images/Pasted image 20250604132210.png"
+                "file": "II sem. 2025/Reti/11. SNMP e monitoraggio delle reti.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250604132210"
+              "icon": "lucide-file",
+              "title": "11. SNMP e monitoraggio delle reti"
+            }
+          },
+          {
+            "id": "72b517b862322572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I sem. 2025/Tecnologie Web/02. Il protocollo HTTP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02. Il protocollo HTTP"
             }
           }
         ]
@@ -51,8 +67,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "status code",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -173,44 +189,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "391b60c286a49779",
+  "active": "d8b0648dec3a784d",
   "lastOpenFiles": [
-    "II sem. 2025/Reti/07. Protocolli Applicativi.md",
+    "II sem. 2025/Reti/Seminario.md",
+    "II sem. 2025/Reti/11. SNMP e monitoraggio delle reti.md",
+    "II sem. 2025/Reti/10. Web e HTTP.md",
+    "II sem. 2025/Reti/Images/Pasted image 20250614183938.png",
+    "II sem. 2025/Reti/Images/Pasted image 20250614183514.png",
+    "II sem. 2025/Reti/Files/Codici di stato.md",
+    "I sem. 2025/Tecnologie Web/02. Il protocollo HTTP.md",
+    "II sem. 2025/Reti/Images/Pasted image 20250614174132.png",
+    "II sem. 2025/Reti/Images/Pasted image 20250614165907.png",
+    "II sem. 2025/Reti/Images/Pasted image 20250614173753.png",
+    "II sem. 2025/Reti/Images/Pasted image 20250614173253.png",
+    "II sem. 2025/Reti/Images/Pasted image 20250614173223.png",
     "II sem. 2025/Reti/08. Posta elettronica.md",
-    "II sem. 2025/Reti/10. SNMP e monitoraggio delle reti.md",
-    "II sem. 2025/Reti/Lab01. Marionnet.md",
+    "II sem. 2025/Reti/Images/Pasted image 20250614171850.png",
+    "II sem. 2025/Reti/Images/Pasted image 20250614171003.png",
+    "II sem. 2025/Reti/Lab07. Implementation of application services.md",
+    "II sem. 2025/Reti/07. Protocolli Applicativi.md",
     "II sem. 2025/Reti/06. Introduzione ai protocolli di crittografia.md",
     "II sem. 2025/Reti/05. Elementi di network security.md",
     "II sem. 2025/Reti/04. Livello di trasporto.md",
     "II sem. 2025/Reti/03. Livello IP.md",
+    "II sem. 2025/Reti/Images/Pasted image 20250604132210.png",
+    "II sem. 2025/Reti/Lab01. Marionnet.md",
     "II sem. 2025/Reti/02. Livello host to network.md",
     "II sem. 2025/Reti/01. Standard suite.md",
     "II sem. 2025/Reti/00. Reti e protocolli.md",
-    "II sem. 2025/Reti/Seminario.md",
-    "II sem. 2025/Reti/Images/Pasted image 20250604130457.png",
-    "II sem. 2025/Reti/Images/Pasted image 20250604134054.png",
-    "II sem. 2025/Reti/Images/Pasted image 20250604133925.png",
-    "II sem. 2025/Reti/Images/Pasted image 20250604133614.png",
-    "II sem. 2025/Reti/Images/Pasted image 20250604133204.png",
-    "II sem. 2025/Reti/Images/Pasted image 20250604132210.png",
-    "II sem. 2025/Reti/HTTP.md",
-    "II sem. 2025/Reti/Images/Pasted image 20250604124503.png",
     "II sem. 2025/Reti/Lab08. IPTables.md",
     "II sem. 2025/Reti/Lab03. Routing.md",
     "II sem. 2025/Reti/Lab02. VLAN.md",
     "II sem. 2025/Reti/Lab04.1 Esercizio DHCP.md",
     "II sem. 2025/Reti/Lab05. Man in the middle attack.md",
     "II sem. 2025/Reti/Lab06. Socket Programming and transport level tools.md",
-    "II sem. 2025/Reti/Lab07. Implementation of application services.md",
-    "II sem. 2025/Reti/Images/Pasted image 20250514124506.png",
-    "II sem. 2025/Reti/Images/Pasted image 20250528131730.png",
-    "II sem. 2025/Reti/Images/Pasted image 20250528131146.png",
     "II sem. 2025/Reti/Lab08.1 Esercizio IPTables.md",
     "I sem. 2025/Ingegneria del software/10. Architettura del software.md",
     "I sem. 2025/Ingegneria del software/09. Sequence Diagram.md",
-    "I sem. 2025/Ingegneria del software/08. Design del software.md",
-    "I sem. 2025/Ingegneria del software/07. Design Pattern.md",
-    "I sem. 2025/Ingegneria del software/06. Class diagram.md",
     "II sem. 2025/Reti/Files/I-Firewall1.pdf"
   ]
 }
